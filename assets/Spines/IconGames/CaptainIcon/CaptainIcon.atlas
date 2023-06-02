@@ -1,0 +1,187 @@
+
+CaptainIcon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00000
+  rotate: false
+  xy: 263, 96
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 302, 515
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: true
+  xy: 538, 213
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 604, 515
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 565, 111
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 565, 9
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: true
+  xy: 867, 213
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: true
+  xy: 906, 722
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 646, 620
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: true
+  xy: 640, 213
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: true
+  xy: 742, 213
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00011
+  rotate: true
+  xy: 646, 722
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00012
+  rotate: true
+  xy: 748, 722
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Group 28
+  rotate: false
+  xy: 263, 28
+  size: 289, 66
+  orig: 289, 66
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 37
+  size: 159, 259
+  orig: 159, 259
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 867, 2
+  size: 130, 209
+  orig: 130, 209
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 198
+  size: 292, 534
+  orig: 292, 534
+  offset: 0, 0
+  index: -1
+captain
+  rotate: false
+  xy: 2, 4
+  size: 149, 31
+  orig: 149, 31
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 302, 617
+  size: 342, 405
+  orig: 342, 405
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 492
+  size: 298, 530
+  orig: 298, 530
+  offset: 0, 0
+  index: -1
+
+CaptainIcon2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00013
+  rotate: false
+  xy: 2, 131
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00014
+  rotate: false
+  xy: 2, 29
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Comp 1_00015
+  rotate: false
+  xy: 304, 131
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 304, 2
+  size: 127, 159
+  orig: 127, 159
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 465, 22
+  size: 139, 107
+  orig: 139, 107
+  offset: 0, 0
+  index: -1

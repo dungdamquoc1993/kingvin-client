@@ -1,0 +1,111 @@
+
+nap.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 821, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 912, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1003, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1094, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 93, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 184, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 275, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 366, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 457, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 548, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 639, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 730, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1185, 2
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1276, 14
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1

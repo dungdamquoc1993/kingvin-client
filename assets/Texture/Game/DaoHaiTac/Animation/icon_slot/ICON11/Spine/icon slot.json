@@ -1,0 +1,59 @@
+{
+"skeleton": { "hash": "6cSD8M7/EasBgJXUIfNrPP8zX7Y", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone6", "parent": "root", "length": 41.28, "rotation": 76.84, "x": 6.47, "y": 0.86 },
+	{ "name": "bone7", "parent": "root", "length": 21.64, "rotation": 114.71, "x": -8.14, "y": -9.41 }
+],
+"slots": [
+	{ "name": "anh sang icon ruong", "bone": "bone6" },
+	{ "name": "icon ruong", "bone": "bone7" }
+],
+"skins": {
+	"default": {
+		"anh sang icon ruong": {
+			"anh sang icon ruong": { "x": 3.75, "y": -1.73, "rotation": -76.84, "width": 95, "height": 95 }
+		},
+		"icon ruong": {
+			"icon ruong": { "x": 9.37, "y": -14.38, "rotation": -114.71, "width": 75, "height": 57 }
+		}
+	}
+},
+"animations": {
+	"icon 11": {
+		"slots": {
+			"anh sang icon ruong": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.6333, "color": "ffffffc0" },
+					{ "time": 2.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.7, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang icon ruong" }
+				]
+			},
+			"icon ruong": {
+				"attachment": [
+					{ "time": 0, "name": "icon ruong" }
+				]
+			}
+		},
+		"bones": {
+			"bone6": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": -101.77 },
+					{ "time": 1.6333, "angle": 151.56 },
+					{ "time": 2.3333, "angle": 64.91 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.028, "y": 1.028 },
+					{ "time": 2.3333, "x": 0.775, "y": 0.775 }
+				]
+			}
+		}
+	}
+}
+}

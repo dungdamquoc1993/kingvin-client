@@ -1,0 +1,118 @@
+
+slot icon.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: false
+  xy: 1301, 521
+  size: 253, 250
+  orig: 253, 250
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 521, 771
+  size: 250, 257
+  orig: 250, 257
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 503
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 260, 770
+  size: 251, 259
+  orig: 251, 259
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 1556, 523
+  size: 255, 247
+  orig: 255, 247
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 2, 2
+  size: 235, 257
+  orig: 235, 257
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 1038, 773
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 780, 768
+  size: 256, 253
+  orig: 256, 253
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 1556, 772
+  size: 256, 249
+  orig: 256, 249
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 252, 246
+  size: 238, 255
+  orig: 238, 255
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: true
+  xy: 1297, 773
+  size: 248, 257
+  orig: 248, 257
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: true
+  xy: 1038, 528
+  size: 243, 261
+  orig: 243, 261
+  offset: 0, 0
+  index: -1
+Layer 29
+  rotate: false
+  xy: 494, 517
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: true
+  xy: 2, 239
+  size: 262, 248
+  orig: 262, 248
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 254, 503
+  size: 238, 260
+  orig: 238, 260
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 2, 765
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,186 @@
+
+tien.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 14
+  rotate: true
+  xy: 536, 77
+  size: 870, 548
+  orig: 872, 549
+  offset: 1, 0
+  index: -1
+tien 18
+  rotate: false
+  xy: 2, 1494
+  size: 973, 548
+  orig: 974, 549
+  offset: 1, 0
+  index: -1
+tien 19
+  rotate: true
+  xy: 2, 2
+  size: 945, 532
+  orig: 947, 533
+  offset: 1, 0
+  index: -1
+tien 2
+  rotate: true
+  xy: 1951, 1968
+  size: 74, 86
+  orig: 76, 88
+  offset: 1, 1
+  index: -1
+tien 20
+  rotate: false
+  xy: 977, 1499
+  size: 972, 543
+  orig: 973, 544
+  offset: 0, 0
+  index: -1
+tien 22
+  rotate: false
+  xy: 977, 949
+  size: 965, 548
+  orig: 967, 549
+  offset: 1, 0
+  index: -1
+tien 24
+  rotate: false
+  xy: 1086, 408
+  size: 959, 539
+  orig: 961, 540
+  offset: 1, 0
+  index: -1
+tien 25
+  rotate: false
+  xy: 2, 949
+  size: 942, 543
+  orig: 944, 545
+  offset: 1, 1
+  index: -1
+tien 3
+  rotate: false
+  xy: 1758, 18
+  size: 127, 145
+  orig: 129, 147
+  offset: 1, 1
+  index: -1
+tien 5
+  rotate: true
+  xy: 1758, 165
+  size: 241, 270
+  orig: 243, 272
+  offset: 1, 1
+  index: -1
+tien 6
+  rotate: false
+  xy: 1452, 77
+  size: 304, 329
+  orig: 306, 331
+  offset: 1, 1
+  index: -1
+tien 7
+  rotate: false
+  xy: 1086, 6
+  size: 364, 400
+  orig: 366, 402
+  offset: 1, 1
+  index: -1
+
+tien2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 11
+  rotate: true
+  xy: 1460, 68
+  size: 636, 544
+  orig: 638, 545
+  offset: 1, 0
+  index: -1
+tien 13
+  rotate: true
+  xy: 1460, 706
+  size: 786, 548
+  orig: 788, 549
+  offset: 1, 0
+  index: -1
+tien 15
+  rotate: true
+  xy: 2, 539
+  size: 953, 548
+  orig: 954, 549
+  offset: 0, 0
+  index: -1
+tien 16
+  rotate: false
+  xy: 2, 1494
+  size: 964, 548
+  orig: 965, 549
+  offset: 0, 0
+  index: -1
+tien 17
+  rotate: false
+  xy: 968, 1494
+  size: 957, 548
+  orig: 959, 549
+  offset: 1, 0
+  index: -1
+tien 21
+  rotate: true
+  xy: 552, 542
+  size: 950, 548
+  orig: 951, 549
+  offset: 0, 0
+  index: -1
+tien 23
+  rotate: false
+  xy: 2, 2
+  size: 955, 535
+  orig: 957, 536
+  offset: 1, 0
+  index: -1
+tien 4
+  rotate: true
+  xy: 1102, 1314
+  size: 178, 209
+  orig: 180, 211
+  offset: 1, 1
+  index: -1
+tien 9
+  rotate: false
+  xy: 959, 20
+  size: 499, 520
+  orig: 501, 522
+  offset: 1, 1
+  index: -1
+
+tien3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 10
+  rotate: false
+  xy: 712, 474
+  size: 571, 548
+  orig: 573, 549
+  offset: 1, 0
+  index: -1
+tien 12
+  rotate: false
+  xy: 2, 474
+  size: 708, 548
+  orig: 710, 549
+  offset: 1, 0
+  index: -1
+tien 8
+  rotate: false
+  xy: 2, 2
+  size: 427, 470
+  orig: 429, 472
+  offset: 1, 1
+  index: -1

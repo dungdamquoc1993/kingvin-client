@@ -1,0 +1,60 @@
+{
+"skeleton": { "hash": "UcBS6LGnFu/OGg0DaRZTo8Wlxo0", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone48", "parent": "root", "length": 23.1, "rotation": 90, "x": -2.49, "y": -8.34 },
+	{ "name": "bone49", "parent": "root", "length": 29.06, "rotation": 66.58, "x": 4.65, "y": 20.01 }
+],
+"slots": [
+	{ "name": "hom kim cuong", "bone": "bone48" },
+	{ "name": "anh sang hom kim cuong", "bone": "bone49" }
+],
+"skins": {
+	"default": {
+		"anh sang hom kim cuong": {
+			"anh sang hom kim cuong": { "x": -2.17, "y": 3.75, "rotation": -66.58, "width": 70, "height": 70 }
+		},
+		"hom kim cuong": {
+			"hom kim cuong": { "x": 13.85, "y": -2.84, "rotation": -90, "width": 74, "height": 72 }
+		}
+	}
+},
+"animations": {
+	"icon 1": {
+		"slots": {
+			"anh sang hom kim cuong": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 2.0333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang hom kim cuong" }
+				]
+			},
+			"hom kim cuong": {
+				"attachment": [
+					{ "time": 0, "name": "hom kim cuong" }
+				]
+			}
+		},
+		"bones": {
+			"bone49": {
+				"rotate": [
+					{ "time": 0, "angle": 167.23 },
+					{ "time": 1, "angle": 49.51 },
+					{ "time": 2.0333, "angle": -58.78 }
+				],
+				"translate": [
+					{ "time": 0, "x": -4.1, "y": 0 },
+					{ "time": 2.0333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.702, "y": 0.702 },
+					{ "time": 1, "x": 1.263, "y": 1.263 },
+					{ "time": 2.0333, "x": 0.702, "y": 0.702 }
+				]
+			}
+		}
+	}
+}
+}

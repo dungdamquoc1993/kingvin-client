@@ -1,0 +1,414 @@
+
+no hu effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as 1
+  rotate: false
+  xy: 1673, 28
+  size: 197, 77
+  orig: 199, 79
+  offset: 1, 1
+  index: -1
+as 2
+  rotate: false
+  xy: 1673, 107
+  size: 197, 78
+  orig: 199, 80
+  offset: 1, 1
+  index: -1
+as 3
+  rotate: false
+  xy: 1673, 107
+  size: 197, 78
+  orig: 199, 80
+  offset: 1, 1
+  index: -1
+ngoi sao
+  rotate: true
+  xy: 1536, 47
+  size: 138, 135
+  orig: 140, 137
+  offset: 1, 1
+  index: -1
+tien 18
+  rotate: false
+  xy: 2, 1287
+  size: 1334, 751
+  orig: 1335, 752
+  offset: 0, 0
+  index: -1
+tien 2
+  rotate: true
+  xy: 1872, 83
+  size: 102, 117
+  orig: 104, 119
+  offset: 1, 1
+  index: -1
+tien 20
+  rotate: false
+  xy: 2, 2
+  size: 1332, 745
+  orig: 1334, 746
+  offset: 1, 0
+  index: -1
+tien 3
+  rotate: true
+  xy: 1336, 11
+  size: 174, 198
+  orig: 176, 200
+  offset: 1, 1
+  index: -1
+tien 9
+  rotate: false
+  xy: 1338, 1325
+  size: 684, 713
+  orig: 686, 715
+  offset: 1, 1
+  index: -1
+vu no 10
+  rotate: true
+  xy: 2, 760
+  size: 525, 661
+  orig: 527, 663
+  offset: 1, 1
+  index: -1
+vu no 12
+  rotate: true
+  xy: 1336, 187
+  size: 560, 680
+  orig: 562, 682
+  offset: 1, 1
+  index: -1
+vu no 14
+  rotate: true
+  xy: 1338, 749
+  size: 574, 672
+  orig: 576, 674
+  offset: 1, 1
+  index: -1
+vu no 9
+  rotate: true
+  xy: 665, 752
+  size: 533, 647
+  orig: 535, 649
+  offset: 1, 1
+  index: -1
+
+no hu effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 16
+  rotate: false
+  xy: 2, 543
+  size: 1321, 751
+  orig: 1322, 752
+  offset: 0, 0
+  index: -1
+tien 22
+  rotate: false
+  xy: 2, 1296
+  size: 1323, 750
+  orig: 1325, 752
+  offset: 1, 1
+  index: -1
+tien 4
+  rotate: false
+  xy: 1795, 56
+  size: 244, 286
+  orig: 246, 288
+  offset: 1, 1
+  index: -1
+tien 8
+  rotate: true
+  xy: 1327, 1461
+  size: 585, 644
+  orig: 587, 646
+  offset: 1, 1
+  index: -1
+vu no 11
+  rotate: true
+  xy: 1325, 344
+  size: 547, 666
+  orig: 549, 668
+  offset: 1, 1
+  index: -1
+vu no 15
+  rotate: true
+  xy: 1327, 893
+  size: 566, 653
+  orig: 568, 655
+  offset: 1, 1
+  index: -1
+vu no 16
+  rotate: true
+  xy: 657, 2
+  size: 539, 634
+  orig: 541, 636
+  offset: 1, 1
+  index: -1
+vu no 2
+  rotate: true
+  xy: 1293, 35
+  size: 307, 500
+  orig: 309, 502
+  offset: 1, 1
+  index: -1
+vu no 8
+  rotate: true
+  xy: 2, 14
+  size: 527, 653
+  orig: 529, 655
+  offset: 1, 1
+  index: -1
+
+no hu effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ngoi sao copy
+  rotate: true
+  xy: 1319, 84
+  size: 109, 108
+  orig: 111, 110
+  offset: 1, 1
+  index: -1
+ngoi sao copy 2
+  rotate: true
+  xy: 1429, 84
+  size: 109, 107
+  orig: 111, 109
+  offset: 1, 1
+  index: -1
+ngoi sao copy 3
+  rotate: true
+  xy: 1538, 99
+  size: 94, 93
+  orig: 96, 95
+  offset: 1, 1
+  index: -1
+ngoi sao copy 4
+  rotate: true
+  xy: 1538, 3
+  size: 94, 93
+  orig: 96, 95
+  offset: 1, 1
+  index: -1
+particle4u copy 24
+  rotate: false
+  xy: 1633, 102
+  size: 91, 91
+  orig: 93, 93
+  offset: 1, 1
+  index: -1
+particle4u copy 25
+  rotate: false
+  xy: 1633, 102
+  size: 91, 91
+  orig: 93, 93
+  offset: 1, 1
+  index: -1
+tien 17
+  rotate: false
+  xy: 2, 1289
+  size: 1312, 751
+  orig: 1314, 752
+  offset: 1, 0
+  index: -1
+tien 19
+  rotate: true
+  xy: 1316, 743
+  size: 1297, 729
+  orig: 1298, 730
+  offset: 0, 0
+  index: -1
+tien 24
+  rotate: false
+  xy: 2, 2
+  size: 1315, 739
+  orig: 1317, 740
+  offset: 1, 0
+  index: -1
+vu no 13
+  rotate: true
+  xy: 1319, 195
+  size: 546, 666
+  orig: 548, 668
+  offset: 1, 1
+  index: -1
+vu no 17
+  rotate: true
+  xy: 2, 767
+  size: 520, 653
+  orig: 522, 655
+  offset: 1, 1
+  index: -1
+vu no 7
+  rotate: true
+  xy: 657, 786
+  size: 501, 645
+  orig: 503, 647
+  offset: 1, 1
+  index: -1
+
+no hu effect4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 15
+  rotate: true
+  xy: 2, 2
+  size: 1305, 751
+  orig: 1307, 752
+  offset: 1, 0
+  index: -1
+tien 21
+  rotate: true
+  xy: 755, 5
+  size: 1302, 751
+  orig: 1304, 752
+  offset: 1, 0
+  index: -1
+tien 23
+  rotate: false
+  xy: 2, 1309
+  size: 1311, 734
+  orig: 1312, 735
+  offset: 0, 0
+  index: -1
+tien 6
+  rotate: true
+  xy: 1508, 141
+  size: 417, 451
+  orig: 419, 453
+  offset: 1, 1
+  index: -1
+tien 7
+  rotate: false
+  xy: 1508, 1495
+  size: 499, 548
+  orig: 501, 550
+  offset: 1, 1
+  index: -1
+trang tri
+  rotate: true
+  xy: 1508, 560
+  size: 465, 475
+  orig: 469, 478
+  offset: 2, 1
+  index: -1
+trang tri 2
+  rotate: true
+  xy: 1508, 1027
+  size: 466, 475
+  orig: 469, 477
+  offset: 1, 1
+  index: -1
+
+no hu effect5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tien 11
+  rotate: true
+  xy: 1296, 1130
+  size: 873, 745
+  orig: 875, 746
+  offset: 1, 0
+  index: -1
+tien 13
+  rotate: true
+  xy: 1231, 51
+  size: 1077, 751
+  orig: 1079, 752
+  offset: 1, 0
+  index: -1
+tien 14
+  rotate: true
+  xy: 2, 63
+  size: 1193, 751
+  orig: 1195, 752
+  offset: 1, 0
+  index: -1
+tien 25
+  rotate: false
+  xy: 2, 1258
+  size: 1292, 745
+  orig: 1294, 747
+  offset: 1, 1
+  index: -1
+vu no 5
+  rotate: false
+  xy: 755, 2
+  size: 427, 607
+  orig: 429, 609
+  offset: 1, 1
+  index: -1
+vu no 6
+  rotate: false
+  xy: 755, 611
+  size: 474, 645
+  orig: 476, 647
+  offset: 1, 1
+  index: -1
+
+no hu effect6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+no hu
+  rotate: false
+  xy: 976, 1554
+  size: 903, 330
+  orig: 905, 332
+  offset: 1, 1
+  index: -1
+tien 10
+  rotate: false
+  xy: 2, 380
+  size: 783, 751
+  orig: 785, 752
+  offset: 1, 0
+  index: -1
+tien 12
+  rotate: false
+  xy: 2, 1133
+  size: 972, 751
+  orig: 974, 752
+  offset: 1, 0
+  index: -1
+tien 5
+  rotate: false
+  xy: 1566, 1182
+  size: 330, 370
+  orig: 332, 372
+  offset: 1, 1
+  index: -1
+vu no
+  rotate: false
+  xy: 787, 755
+  size: 234, 376
+  orig: 236, 378
+  offset: 1, 1
+  index: -1
+vu no 3
+  rotate: true
+  xy: 976, 1204
+  size: 348, 588
+  orig: 350, 590
+  offset: 1, 1
+  index: -1
+vu no 4
+  rotate: true
+  xy: 2, 2
+  size: 376, 606
+  orig: 378, 608
+  offset: 1, 1
+  index: -1

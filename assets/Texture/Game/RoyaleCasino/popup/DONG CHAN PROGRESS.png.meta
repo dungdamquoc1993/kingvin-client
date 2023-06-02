@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "8811ca10-bd27-41c4-92a8-22c343ce1c84",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "DONG CHAN PROGRESS": {
+      "ver": "1.0.4",
+      "uuid": "ed81d4cf-5ea0-4ea1-b315-384f4ca644f7",
+      "rawTextureUuid": "8811ca10-bd27-41c4-92a8-22c343ce1c84",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 156,
+      "height": 86,
+      "rawWidth": 156,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

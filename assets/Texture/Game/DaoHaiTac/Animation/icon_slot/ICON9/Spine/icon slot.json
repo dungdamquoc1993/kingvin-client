@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "e1mEtLg2aQLn8eZRZM5tGtX0VPk", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone10", "parent": "root", "length": 47.24, "rotation": 4.7, "x": -5.62, "y": 22.12 },
+	{ "name": "bone11", "parent": "root", "length": 32.13, "rotation": -100.41, "x": -0.89, "y": -5.83 }
+],
+"slots": [
+	{ "name": "vet 2", "bone": "bone11" },
+	{ "name": "vet", "bone": "bone10" }
+],
+"skins": {
+	"default": {
+		"vet": {
+			"vet": { "x": 27.76, "y": -4.99, "rotation": -4.7, "width": 83, "height": 61 }
+		},
+		"vet 2": {
+			"vet 2": { "x": 14.57, "y": 10.66, "rotation": 100.41, "width": 106, "height": 96 }
+		}
+	}
+},
+"animations": {
+	"icon 9": {
+		"slots": {
+			"vet": {
+				"attachment": [
+					{ "time": 0, "name": "vet" }
+				]
+			},
+			"vet 2": {
+				"attachment": [
+					{ "time": 0, "name": "vet 2" }
+				]
+			}
+		},
+		"bones": {
+			"bone10": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": -12.63,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

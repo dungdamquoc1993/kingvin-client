@@ -1,0 +1,47 @@
+slots rung.png
+ size: 431,431
+ format: RGBA8888
+ filter: Linear,Linear
+ repeat: none
+chan_slotung
+ rotate: false
+ xy: 162, 241
+ size: 41, 55
+ orig: 41, 55
+ offset: 0, 0
+ index: -1
+chansau_slotung
+ rotate: false
+ xy: 275, 382
+ size: 36, 47
+ orig: 36, 47
+ offset: 0, 0
+ index: -1
+dog_slotrung
+ rotate: false
+ xy: 162, 298
+ size: 111, 131
+ orig: 111, 131
+ offset: 0, 0
+ index: -1
+kinh_slotung
+ rotate: false
+ xy: 162, 205
+ size: 36, 34
+ orig: 36, 34
+ offset: 0, 0
+ index: -1
+luoi_slotung
+ rotate: false
+ xy: 205, 269
+ size: 22, 27
+ orig: 22, 27
+ offset: 0, 0
+ index: -1
+slotrung_nguoi
+ rotate: false
+ xy: 2, 2
+ size: 158, 427
+ orig: 158, 427
+ offset: 0, 0
+ index: -1

@@ -1,0 +1,69 @@
+
+nohu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cha
+  rotate: false
+  xy: 2, 2
+  size: 214, 177
+  orig: 214, 177
+  offset: 0, 0
+  index: -1
+cha2
+  rotate: false
+  xy: 2, 181
+  size: 346, 254
+  orig: 346, 254
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 441, 456
+  size: 403, 182
+  orig: 403, 182
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 2, 640
+  size: 851, 382
+  orig: 851, 382
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 855, 911
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 855, 788
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 350, 316
+  size: 85, 119
+  orig: 85, 119
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 218, 105
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 437
+  size: 437, 201
+  orig: 437, 201
+  offset: 0, 0
+  index: -1

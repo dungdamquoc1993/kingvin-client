@@ -1,0 +1,90 @@
+
+maintaixiu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 211
+  size: 221, 208
+  orig: 221, 208
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 821
+  size: 250, 197
+  orig: 250, 197
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 254, 829
+  size: 242, 189
+  orig: 242, 189
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 498, 831
+  size: 237, 187
+  orig: 237, 187
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 421
+  size: 229, 201
+  orig: 229, 201
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 225, 194
+  size: 225, 197
+  orig: 225, 197
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 225, 4
+  size: 220, 188
+  orig: 220, 188
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 254, 625
+  size: 218, 202
+  orig: 218, 202
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 474, 620
+  size: 218, 207
+  orig: 218, 207
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 221, 207
+  orig: 221, 207
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 737, 819
+  size: 229, 199
+  orig: 229, 199
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 624
+  size: 245, 195
+  orig: 245, 195
+  offset: 0, 0
+  index: -1

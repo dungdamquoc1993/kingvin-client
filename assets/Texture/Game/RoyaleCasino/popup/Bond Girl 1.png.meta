@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "98a067ca-b8ee-47fa-b179-b253cdee2bab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Bond Girl 1": {
+      "ver": "1.0.4",
+      "uuid": "e9fe9a5a-d84e-4470-bc4e-6af690a45bfc",
+      "rawTextureUuid": "98a067ca-b8ee-47fa-b179-b253cdee2bab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 134,
+      "height": 29,
+      "rawWidth": 134,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

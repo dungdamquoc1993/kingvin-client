@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "cecc9209-f7a1-4c2c-ba48-671dd2c33377",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "pngfuel.com": {
+      "ver": "1.0.4",
+      "uuid": "da622371-ee4e-4335-9475-2b0379ad2cdb",
+      "rawTextureUuid": "cecc9209-f7a1-4c2c-ba48-671dd2c33377",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

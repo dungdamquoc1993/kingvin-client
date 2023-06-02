@@ -1,0 +1,384 @@
+
+effect thang lon.png
+size: 5642,5642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: true
+  xy: 5038, 736
+  size: 561, 146
+  orig: 561, 146
+  offset: 0, 0
+  index: -1
+Comp 2_00000
+  rotate: false
+  xy: 4565, 4876
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Comp 2_00001
+  rotate: true
+  xy: 5391, 2426
+  size: 455, 153
+  orig: 455, 153
+  offset: 0, 0
+  index: -1
+Comp 2_00009
+  rotate: false
+  xy: 4380, 731
+  size: 656, 566
+  orig: 656, 566
+  offset: 0, 0
+  index: -1
+Comp 2_00010
+  rotate: false
+  xy: 2485, 3980
+  size: 1038, 921
+  orig: 1038, 921
+  offset: 0, 0
+  index: -1
+Comp 2_00011
+  rotate: false
+  xy: 2, 3958
+  size: 1038, 928
+  orig: 1038, 928
+  offset: 0, 0
+  index: -1
+Comp 2_00012
+  rotate: false
+  xy: 2, 3028
+  size: 1038, 928
+  orig: 1038, 928
+  offset: 0, 0
+  index: -1
+Comp 2_00013
+  rotate: false
+  xy: 2, 2098
+  size: 1038, 928
+  orig: 1038, 928
+  offset: 0, 0
+  index: -1
+Comp 2_00014
+  rotate: false
+  xy: 2, 1168
+  size: 1038, 928
+  orig: 1038, 928
+  offset: 0, 0
+  index: -1
+Comp 2_00015
+  rotate: false
+  xy: 2, 242
+  size: 1038, 924
+  orig: 1038, 924
+  offset: 0, 0
+  index: -1
+Comp 2_00016
+  rotate: false
+  xy: 3525, 3979
+  size: 1038, 917
+  orig: 1038, 917
+  offset: 0, 0
+  index: -1
+Comp 2_00017
+  rotate: false
+  xy: 2485, 3072
+  size: 1038, 906
+  orig: 1038, 906
+  offset: 0, 0
+  index: -1
+Comp 2_00018
+  rotate: false
+  xy: 3525, 3078
+  size: 1038, 899
+  orig: 1038, 899
+  offset: 0, 0
+  index: -1
+Comp 2_00019
+  rotate: false
+  xy: 4565, 3768
+  size: 1038, 895
+  orig: 1038, 895
+  offset: 0, 0
+  index: -1
+Comp 2_00020
+  rotate: false
+  xy: 4565, 2883
+  size: 1038, 883
+  orig: 1038, 883
+  offset: 0, 0
+  index: -1
+Comp 2_00021
+  rotate: false
+  xy: 2485, 2203
+  size: 1020, 867
+  orig: 1020, 867
+  offset: 0, 0
+  index: -1
+Comp 2_00022
+  rotate: false
+  xy: 1769, 1347
+  size: 998, 854
+  orig: 998, 854
+  offset: 0, 0
+  index: -1
+Comp 2_00023
+  rotate: true
+  xy: 4800, 4665
+  size: 975, 830
+  orig: 975, 830
+  offset: 0, 0
+  index: -1
+Comp 2_00024
+  rotate: false
+  xy: 1759, 552
+  size: 943, 793
+  orig: 943, 793
+  offset: 0, 0
+  index: -1
+Comp 2_00025
+  rotate: true
+  xy: 2769, 1294
+  size: 907, 763
+  orig: 907, 763
+  offset: 0, 0
+  index: -1
+Comp 2_00026
+  rotate: true
+  xy: 3723, 557
+  size: 797, 655
+  orig: 797, 655
+  offset: 0, 0
+  index: -1
+Comp 2_00027
+  rotate: false
+  xy: 3693, 16
+  size: 666, 539
+  orig: 666, 539
+  offset: 0, 0
+  index: -1
+Comp 2_00028
+  rotate: true
+  xy: 5105, 474
+  size: 192, 369
+  orig: 192, 369
+  offset: 0, 0
+  index: -1
+FREE SPIN
+  rotate: false
+  xy: 4390, 1299
+  size: 779, 146
+  orig: 779, 146
+  offset: 0, 0
+  index: -1
+dong xu
+  rotate: true
+  xy: 5546, 2529
+  size: 352, 84
+  orig: 352, 84
+  offset: 0, 0
+  index: -1
+dong xu 10
+  rotate: false
+  xy: 4390, 1447
+  size: 803, 458
+  orig: 803, 458
+  offset: 0, 0
+  index: -1
+dong xu 11
+  rotate: false
+  xy: 4415, 1907
+  size: 828, 505
+  orig: 828, 505
+  offset: 0, 0
+  index: -1
+dong xu 12
+  rotate: false
+  xy: 3534, 1356
+  size: 854, 560
+  orig: 854, 560
+  offset: 0, 0
+  index: -1
+dong xu 13
+  rotate: false
+  xy: 3534, 1918
+  size: 879, 604
+  orig: 879, 604
+  offset: 0, 0
+  index: -1
+dong xu 14
+  rotate: false
+  xy: 4485, 2414
+  size: 904, 467
+  orig: 904, 467
+  offset: 0, 0
+  index: -1
+dong xu 15
+  rotate: false
+  xy: 1759, 42
+  size: 929, 508
+  orig: 929, 508
+  offset: 0, 0
+  index: -1
+dong xu 16
+  rotate: false
+  xy: 3525, 2524
+  size: 958, 552
+  orig: 958, 552
+  offset: 0, 0
+  index: -1
+dong xu 17
+  rotate: false
+  xy: 2704, 49
+  size: 987, 598
+  orig: 987, 598
+  offset: 0, 0
+  index: -1
+dong xu 18
+  rotate: false
+  xy: 2704, 649
+  size: 1017, 643
+  orig: 1017, 643
+  offset: 0, 0
+  index: -1
+dong xu 19
+  rotate: true
+  xy: 1792, 2766
+  size: 1047, 691
+  orig: 1047, 691
+  offset: 0, 0
+  index: -1
+dong xu 2
+  rotate: false
+  xy: 1042, 179
+  size: 671, 123
+  orig: 671, 123
+  offset: 0, 0
+  index: -1
+dong xu 20
+  rotate: true
+  xy: 1779, 3815
+  size: 1075, 704
+  orig: 1075, 704
+  offset: 0, 0
+  index: -1
+dong xu 21
+  rotate: true
+  xy: 1042, 304
+  size: 1104, 715
+  orig: 1104, 715
+  offset: 0, 0
+  index: -1
+dong xu 22
+  rotate: true
+  xy: 1042, 1410
+  size: 1135, 725
+  orig: 1135, 725
+  offset: 0, 0
+  index: -1
+dong xu 23
+  rotate: true
+  xy: 1042, 3714
+  size: 1172, 735
+  orig: 1172, 735
+  offset: 0, 0
+  index: -1
+dong xu 24
+  rotate: false
+  xy: 3617, 4898
+  size: 1181, 742
+  orig: 1181, 742
+  offset: 0, 0
+  index: -1
+dong xu 25
+  rotate: true
+  xy: 1042, 2547
+  size: 1165, 748
+  orig: 1165, 748
+  offset: 0, 0
+  index: -1
+dong xu 26
+  rotate: false
+  xy: 2428, 4903
+  size: 1187, 737
+  orig: 1187, 737
+  offset: 0, 0
+  index: -1
+dong xu 27
+  rotate: false
+  xy: 1219, 4892
+  size: 1207, 748
+  orig: 1207, 748
+  offset: 0, 0
+  index: -1
+dong xu 28
+  rotate: false
+  xy: 2, 4888
+  size: 1215, 752
+  orig: 1215, 752
+  offset: 0, 0
+  index: -1
+dong xu 3
+  rotate: true
+  xy: 5414, 1787
+  size: 637, 130
+  orig: 637, 130
+  offset: 0, 0
+  index: -1
+dong xu 4
+  rotate: false
+  xy: 938, 2
+  size: 616, 175
+  orig: 616, 175
+  offset: 0, 0
+  index: -1
+dong xu 5
+  rotate: false
+  xy: 1792, 2542
+  size: 667, 222
+  orig: 667, 222
+  offset: 0, 0
+  index: -1
+dong xu 6
+  rotate: false
+  xy: 1769, 2270
+  size: 695, 270
+  orig: 695, 270
+  offset: 0, 0
+  index: -1
+dong xu 7
+  rotate: false
+  xy: 4380, 412
+  size: 723, 317
+  orig: 723, 317
+  offset: 0, 0
+  index: -1
+dong xu 8
+  rotate: false
+  xy: 4361, 45
+  size: 750, 365
+  orig: 750, 365
+  offset: 0, 0
+  index: -1
+dong xu 9
+  rotate: true
+  xy: 5186, 668
+  size: 777, 412
+  orig: 777, 412
+  offset: 0, 0
+  index: -1
+giau to
+  rotate: true
+  xy: 5245, 1747
+  size: 665, 167
+  orig: 665, 167
+  offset: 0, 0
+  index: -1
+thang lon
+  rotate: false
+  xy: 2, 54
+  size: 934, 186
+  orig: 934, 186
+  offset: 0, 0
+  index: -1

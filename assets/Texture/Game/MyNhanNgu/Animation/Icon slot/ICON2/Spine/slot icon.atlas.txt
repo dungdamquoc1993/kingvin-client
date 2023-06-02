@@ -1,0 +1,34 @@
+
+slot icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca ngao
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+mat ca ngao
+  rotate: false
+  xy: 123, 57
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+mat ca ngao 2
+  rotate: false
+  xy: 123, 84
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+mom ca ngao
+  rotate: false
+  xy: 208, 96
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

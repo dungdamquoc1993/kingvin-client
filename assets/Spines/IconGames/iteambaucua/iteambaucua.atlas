@@ -1,0 +1,55 @@
+
+iteambaucua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cua
+  rotate: true
+  xy: 320, 2
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+bau
+  rotate: false
+  xy: 209, 50
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 209, 104
+  size: 206, 150
+  orig: 206, 150
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 369, 51
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 2, 5
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 417, 171
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 2, 48
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1

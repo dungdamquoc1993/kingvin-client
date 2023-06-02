@@ -1,0 +1,195 @@
+
+BONUSJACKPOT.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGWILD
+  rotate: false
+  xy: 1170, 587
+  size: 140, 422
+  orig: 140, 422
+  offset: 0, 0
+  index: -1
+Bonus
+  rotate: false
+  xy: 1312, 912
+  size: 264, 97
+  orig: 264, 97
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 1443, 740
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+EYE2
+  rotate: false
+  xy: 1924, 980
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+FRAMEWILD
+  rotate: false
+  xy: 1005, 565
+  size: 163, 444
+  orig: 163, 444
+  offset: 0, 0
+  index: -1
+GAI
+  rotate: false
+  xy: 245, 23
+  size: 230, 350
+  orig: 230, 350
+  offset: 0, 0
+  index: -1
+GAI2
+  rotate: false
+  xy: 2, 2
+  size: 241, 371
+  orig: 241, 371
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 477, 28
+  size: 345, 103
+  orig: 345, 103
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2, 375
+  size: 669, 634
+  orig: 669, 634
+  offset: 0, 0
+  index: -1
+LIGHT2WILD
+  rotate: false
+  xy: 673, 563
+  size: 164, 446
+  orig: 164, 446
+  offset: 0, 0
+  index: -1
+LIGHTWILD
+  rotate: false
+  xy: 839, 563
+  size: 164, 446
+  orig: 164, 446
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1578, 904
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+MAT2WILD
+  rotate: false
+  xy: 245, 9
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+MATGAI
+  rotate: false
+  xy: 799, 415
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+MATGAI2
+  rotate: false
+  xy: 582, 165
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+MATWILD
+  rotate: false
+  xy: 1170, 573
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+NGUOIWILD
+  rotate: false
+  xy: 1312, 726
+  size: 129, 184
+  orig: 129, 184
+  offset: 0, 0
+  index: -1
+SAO1
+  rotate: true
+  xy: 1443, 771
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+SAO2
+  rotate: false
+  xy: 1566, 778
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+SAO3
+  rotate: false
+  xy: 1710, 885
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+SAO4
+  rotate: true
+  xy: 1312, 585
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+TAYWILD
+  rotate: false
+  xy: 1836, 891
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+THANWILD
+  rotate: true
+  xy: 673, 438
+  size: 123, 259
+  orig: 123, 259
+  offset: 0, 0
+  index: -1
+TOC2WILD
+  rotate: true
+  xy: 673, 383
+  size: 53, 124
+  orig: 53, 124
+  offset: 0, 0
+  index: -1
+TOCWILD
+  rotate: false
+  xy: 582, 244
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+VEUWILD
+  rotate: false
+  xy: 582, 188
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 934, 456
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1

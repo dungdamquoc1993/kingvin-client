@@ -1,0 +1,69 @@
+
+BONUSJACKPOT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 543, 572
+  size: 262, 400
+  orig: 262, 400
+  offset: 0, 0
+  index: -1
+BONUS
+  rotate: false
+  xy: 543, 476
+  size: 251, 94
+  orig: 251, 94
+  offset: 0, 0
+  index: -1
+CUP
+  rotate: false
+  xy: 614, 358
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+CUP2
+  rotate: false
+  xy: 614, 240
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+GAI
+  rotate: false
+  xy: 376, 65
+  size: 236, 372
+  orig: 236, 372
+  offset: 0, 0
+  index: -1
+GAI2
+  rotate: false
+  xy: 2, 2
+  size: 372, 435
+  orig: 372, 435
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 807, 630
+  size: 342, 122
+  orig: 342, 122
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2, 439
+  size: 539, 533
+  orig: 539, 533
+  offset: 0, 0
+  index: -1
+SCATTER
+  rotate: true
+  xy: 931, 686
+  size: 286, 51
+  orig: 286, 51
+  offset: 0, 0
+  index: -1

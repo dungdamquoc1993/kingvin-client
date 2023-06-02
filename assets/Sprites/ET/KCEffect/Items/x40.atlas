@@ -1,0 +1,41 @@
+
+x40.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cha
+  rotate: false
+  xy: 2, 13
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 122, 78
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+matnham
+  rotate: false
+  xy: 195, 83
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 122, 38
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 122, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1

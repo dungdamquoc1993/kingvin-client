@@ -1,0 +1,244 @@
+
+007.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BANTAYPHAI
+  rotate: false
+  xy: 3204, 1820
+  size: 32, 59
+  orig: 34, 61
+  offset: 1, 1
+  index: -1
+CHANPHAI
+  rotate: true
+  xy: 2, 51
+  size: 88, 213
+  orig: 90, 215
+  offset: 1, 1
+  index: -1
+CHANTRAI
+  rotate: false
+  xy: 1550, 232
+  size: 67, 233
+  orig: 69, 235
+  offset: 1, 1
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 2897, 1503
+  size: 305, 510
+  orig: 307, 512
+  offset: 1, 1
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 2275, 1501
+  size: 310, 512
+  orig: 312, 514
+  offset: 1, 1
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 1627, 467
+  size: 313, 514
+  orig: 315, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 1630, 983
+  size: 317, 514
+  orig: 319, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00006
+  rotate: true
+  xy: 518, 145
+  size: 320, 514
+  orig: 322, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 985, 983
+  size: 321, 514
+  orig: 323, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 661, 983
+  size: 322, 514
+  orig: 324, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 989, 1499
+  size: 322, 514
+  orig: 324, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 662, 1499
+  size: 325, 514
+  orig: 327, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00011
+  rotate: false
+  xy: 2, 467
+  size: 327, 514
+  orig: 329, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00012
+  rotate: false
+  xy: 2, 1499
+  size: 328, 514
+  orig: 330, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00013
+  rotate: false
+  xy: 2, 983
+  size: 328, 514
+  orig: 330, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00014
+  rotate: false
+  xy: 332, 1499
+  size: 328, 514
+  orig: 330, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00015
+  rotate: false
+  xy: 332, 983
+  size: 327, 514
+  orig: 329, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00016
+  rotate: false
+  xy: 331, 467
+  size: 325, 514
+  orig: 327, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00017
+  rotate: true
+  xy: 2, 141
+  size: 324, 514
+  orig: 326, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00018
+  rotate: false
+  xy: 658, 467
+  size: 322, 514
+  orig: 324, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00019
+  rotate: false
+  xy: 1313, 1499
+  size: 321, 514
+  orig: 323, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00020
+  rotate: false
+  xy: 982, 467
+  size: 321, 514
+  orig: 323, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00021
+  rotate: false
+  xy: 1308, 983
+  size: 320, 514
+  orig: 322, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00022
+  rotate: false
+  xy: 1636, 1499
+  size: 320, 514
+  orig: 322, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00023
+  rotate: false
+  xy: 1305, 467
+  size: 320, 514
+  orig: 322, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00024
+  rotate: true
+  xy: 1034, 147
+  size: 318, 514
+  orig: 320, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00025
+  rotate: false
+  xy: 1958, 1499
+  size: 315, 514
+  orig: 317, 516
+  offset: 1, 1
+  index: -1
+Comp 1_00026
+  rotate: false
+  xy: 1949, 984
+  size: 310, 513
+  orig: 312, 515
+  offset: 1, 1
+  index: -1
+Comp 1_00027
+  rotate: false
+  xy: 2587, 1503
+  size: 308, 510
+  orig: 310, 512
+  offset: 1, 1
+  index: -1
+DAU
+  rotate: false
+  xy: 217, 75
+  size: 51, 64
+  orig: 53, 66
+  offset: 1, 1
+  index: -1
+TAYPHAI
+  rotate: false
+  xy: 1550, 169
+  size: 39, 61
+  orig: 41, 63
+  offset: 1, 1
+  index: -1
+TAYTRAI
+  rotate: false
+  xy: 2, 2
+  size: 113, 47
+  orig: 115, 49
+  offset: 1, 1
+  index: -1
+THANDUOI
+  rotate: false
+  xy: 1619, 334
+  size: 102, 131
+  orig: 104, 133
+  offset: 1, 1
+  index: -1
+THANTREN
+  rotate: false
+  xy: 3204, 1881
+  size: 122, 132
+  orig: 124, 134
+  offset: 1, 1
+  index: -1

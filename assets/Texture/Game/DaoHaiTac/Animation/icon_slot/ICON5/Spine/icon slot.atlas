@@ -1,0 +1,13 @@
+
+icon slot.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruong vang
+  rotate: false
+  xy: 2, 2
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1

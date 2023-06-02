@@ -1,0 +1,118 @@
+
+Girl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 484, 170
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 829, 322
+  size: 66, 180
+  orig: 66, 180
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 969, 334
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 2, 2
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 576, 182
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 263, 111
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 484, 252
+  size: 155, 250
+  orig: 155, 250
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 897, 390
+  size: 78, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 641, 314
+  size: 186, 188
+  orig: 186, 188
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 263, 175
+  size: 219, 327
+  orig: 219, 327
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 111
+  size: 259, 391
+  orig: 259, 391
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 42
+  size: 67, 282
+  orig: 67, 282
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 897, 338
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 641, 273
+  size: 91, 39
+  orig: 91, 39
+  offset: 0, 0
+  index: -1
+blink
+  rotate: false
+  xy: 977, 453
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+pker'
+  rotate: false
+  xy: 286, 50
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1

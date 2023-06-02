@@ -1,0 +1,20 @@
+
+slot icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bach tuoc
+  rotate: true
+  xy: 2, 2
+  size: 120, 129
+  orig: 120, 129
+  offset: 0, 0
+  index: -1
+mom bach tuoc
+  rotate: false
+  xy: 133, 78
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1

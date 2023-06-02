@@ -1,0 +1,76 @@
+
+TrumCaIcon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOM
+  rotate: false
+  xy: 883, 199
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+TAY
+  rotate: true
+  xy: 144, 29
+  size: 74, 154
+  orig: 74, 154
+  offset: 0, 0
+  index: -1
+ThuÃ»y ChieÃ¡n
+  rotate: false
+  xy: 2, 105
+  size: 321, 82
+  orig: 321, 82
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 189
+  size: 292, 534
+  orig: 292, 534
+  offset: 0, 0
+  index: -1
+ca2
+  rotate: true
+  xy: 2, 2
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+ca22
+  rotate: false
+  xy: 325, 108
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+ca3
+  rotate: true
+  xy: 883, 326
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1
+ca33
+  rotate: false
+  xy: 477, 91
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+cha
+  rotate: true
+  xy: 538, 191
+  size: 290, 343
+  orig: 290, 343
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 579, 98
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1

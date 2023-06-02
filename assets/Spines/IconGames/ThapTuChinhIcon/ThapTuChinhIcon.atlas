@@ -1,0 +1,69 @@
+
+ThapTuChinhIcon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHA
+  rotate: true
+  xy: 361, 81
+  size: 165, 291
+  orig: 165, 291
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 654, 15
+  size: 244, 231
+  orig: 244, 231
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 900, 70
+  size: 176, 80
+  orig: 176, 80
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 50
+  size: 196, 357
+  orig: 196, 357
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 435, 24
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 900, 19
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+thap
+  rotate: false
+  xy: 182, 2
+  size: 126, 46
+  orig: 126, 46
+  offset: 0, 0
+  index: -1
+tu chinh
+  rotate: false
+  xy: 2, 10
+  size: 178, 38
+  orig: 178, 38
+  offset: 0, 0
+  index: -1
+vai
+  rotate: true
+  xy: 361, 19
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1

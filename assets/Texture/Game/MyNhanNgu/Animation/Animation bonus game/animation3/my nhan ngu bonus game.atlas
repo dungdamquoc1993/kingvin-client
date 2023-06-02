@@ -1,0 +1,132 @@
+
+my nhan ngu bonus game.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban tay phai
+  rotate: false
+  xy: 2, 3
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+bay tay phai
+  rotate: false
+  xy: 244, 2
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+canh tay phai
+  rotate: false
+  xy: 1086, 76
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1590, 104
+  size: 166, 150
+  orig: 166, 150
+  offset: 0, 0
+  index: -1
+duoi ca
+  rotate: true
+  xy: 962, 149
+  size: 105, 251
+  orig: 105, 251
+  offset: 0, 0
+  index: -1
+duoi ca 2
+  rotate: false
+  xy: 244, 113
+  size: 257, 141
+  orig: 257, 141
+  offset: 0, 0
+  index: -1
+hoa toc
+  rotate: false
+  xy: 868, 16
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+mat tien ca
+  rotate: false
+  xy: 326, 22
+  size: 134, 89
+  orig: 134, 89
+  offset: 0, 0
+  index: -1
+mat tien ca 2
+  rotate: false
+  xy: 729, 40
+  size: 137, 84
+  orig: 137, 84
+  offset: 0, 0
+  index: -1
+rong bien
+  rotate: false
+  xy: 1758, 146
+  size: 132, 108
+  orig: 132, 108
+  offset: 0, 0
+  index: -1
+rong bien 2
+  rotate: false
+  xy: 1892, 146
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+than nguoi
+  rotate: false
+  xy: 2, 55
+  size: 240, 199
+  orig: 240, 199
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 1420, 104
+  size: 150, 168
+  orig: 150, 168
+  offset: 0, 0
+  index: -1
+toc 2
+  rotate: false
+  xy: 503, 83
+  size: 224, 171
+  orig: 224, 171
+  offset: 0, 0
+  index: -1
+toc 3
+  rotate: false
+  xy: 1215, 123
+  size: 203, 131
+  orig: 203, 131
+  offset: 0, 0
+  index: -1
+toc 4
+  rotate: false
+  xy: 729, 126
+  size: 231, 128
+  orig: 231, 128
+  offset: 0, 0
+  index: -1
+trang suc
+  rotate: false
+  xy: 980, 27
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+veu
+  rotate: false
+  xy: 980, 73
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1

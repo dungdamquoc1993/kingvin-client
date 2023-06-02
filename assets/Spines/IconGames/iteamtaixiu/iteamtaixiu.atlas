@@ -1,0 +1,48 @@
+
+iteamtaixiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 525
+  rotate: false
+  xy: 2, 45
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+Layer 756
+  rotate: false
+  xy: 209, 134
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+Layer 757
+  rotate: false
+  xy: 328, 2
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 342, 159
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 342, 85
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 209, 56
+  size: 117, 76
+  orig: 117, 76
+  offset: 0, 0
+  index: -1

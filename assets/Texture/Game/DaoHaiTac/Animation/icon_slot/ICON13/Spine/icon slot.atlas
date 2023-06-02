@@ -1,0 +1,20 @@
+
+icon slot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPIN copy 2
+  rotate: false
+  xy: 218, 159
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+banh xe quay
+  rotate: false
+  xy: 2, 2
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1

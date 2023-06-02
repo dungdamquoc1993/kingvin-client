@@ -1,0 +1,47 @@
+{
+"skeleton": { "hash": "+oqjEFvQVXKxsPYrUanpjywGlZE", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone25", "parent": "root", "length": 27.94, "rotation": 90, "x": -0.97, "y": -28.6 },
+	{ "name": "bone26", "parent": "root", "length": 42.46, "rotation": 77.47, "x": -4.35, "y": 7.32 }
+],
+"slots": [
+	{ "name": "Wild", "bone": "bone25" },
+	{ "name": "Wild 2", "bone": "bone26" }
+],
+"skins": {
+	"default": {
+		"Wild": {
+			"Wild": { "x": 23.99, "y": -2.16, "rotation": -90, "width": 110, "height": 87 }
+		},
+		"Wild 2": {
+			"Wild 2": { "x": 1.27, "y": -5.39, "rotation": -77.47, "width": 104, "height": 29 }
+		}
+	}
+},
+"animations": {
+	"icon 1": {
+		"slots": {
+			"Wild": {
+				"attachment": [
+					{ "time": 0, "name": "Wild" }
+				]
+			},
+			"Wild 2": {
+				"attachment": [
+					{ "time": 0, "name": "Wild 2" }
+				]
+			}
+		},
+		"bones": {
+			"bone26": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.16, "y": 1.16 },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

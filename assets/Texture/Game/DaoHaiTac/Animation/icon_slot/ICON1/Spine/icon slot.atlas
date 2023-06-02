@@ -1,0 +1,20 @@
+
+icon slot.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild
+  rotate: false
+  xy: 2, 33
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+Wild 2
+  rotate: false
+  xy: 2, 2
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1

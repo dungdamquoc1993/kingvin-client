@@ -1,0 +1,27 @@
+
+loadingMC.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15 copy 10
+  rotate: false
+  xy: 159, 32
+  size: 109, 22
+  orig: 109, 22
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 2, 2
+  size: 155, 52
+  orig: 155, 52
+  offset: 0, 0
+  index: -1
+Layer 35
+  rotate: false
+  xy: 159, 12
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

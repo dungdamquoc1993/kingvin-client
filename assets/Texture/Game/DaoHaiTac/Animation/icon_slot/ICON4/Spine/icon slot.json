@@ -1,0 +1,47 @@
+{
+"skeleton": { "hash": "KyZ4cIf6yJT/gvlH+04yTOgVZTs", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone19", "parent": "root", "length": 17.51, "rotation": 86.42, "x": 12.03, "y": -20.47 },
+	{ "name": "bone20", "parent": "bone19", "length": 46.92, "rotation": 69.3, "x": 39.63, "y": -3.91 }
+],
+"slots": [
+	{ "name": "dai bac", "bone": "bone20" },
+	{ "name": "dai bac 2", "bone": "bone19" }
+],
+"skins": {
+	"default": {
+		"dai bac": {
+			"dai bac": { "x": 30.84, "y": 0.83, "rotation": -155.72, "width": 115, "height": 73 }
+		},
+		"dai bac 2": {
+			"dai bac 2": { "x": 6.65, "y": 9.52, "rotation": -86.42, "width": 117, "height": 75 }
+		}
+	}
+},
+"animations": {
+	"icon 4": {
+		"slots": {
+			"dai bac": {
+				"attachment": [
+					{ "time": 0, "name": "dai bac" }
+				]
+			},
+			"dai bac 2": {
+				"attachment": [
+					{ "time": 0, "name": "dai bac 2" }
+				]
+			}
+		},
+		"bones": {
+			"bone20": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": -8.06 },
+					{ "time": 1.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,58 @@
+{
+"skeleton": { "hash": "Ky7aybCYEstOh8Wkde5VdP9vSp0", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone26", "parent": "root", "length": 38.76, "rotation": 95.39, "x": 5.55, "y": -33.63 },
+	{ "name": "bone27", "parent": "root", "length": 34.09, "rotation": 96.75, "x": 10.64, "y": 47.91 }
+],
+"slots": [
+	{ "name": "thung vang", "bone": "bone26" },
+	{ "name": "anh sang dong xu thung vang", "bone": "bone27" }
+],
+"skins": {
+	"default": {
+		"anh sang dong xu thung vang": {
+			"anh sang dong xu thung vang": { "x": 0.91, "y": -1.42, "rotation": -96.75, "width": 90, "height": 82 }
+		},
+		"thung vang": {
+			"thung vang": { "x": 33.58, "y": 3.46, "rotation": -95.39, "width": 122, "height": 125 }
+		}
+	}
+},
+"animations": {
+	"icon 9": {
+		"slots": {
+			"anh sang dong xu thung vang": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff9e" },
+					{ "time": 1.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang dong xu thung vang" }
+				]
+			},
+			"thung vang": {
+				"attachment": [
+					{ "time": 0, "name": "thung vang" }
+				]
+			}
+		},
+		"bones": {
+			"bone27": {
+				"rotate": [
+					{ "time": 0, "angle": -12.92 },
+					{ "time": 0.8333, "angle": -147.38 },
+					{ "time": 1.3333, "angle": 76.97 },
+					{ "time": 1.9667, "angle": 10.02 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.386, "y": 0.386 },
+					{ "time": 0.8333, "x": 0.969, "y": 0.969 },
+					{ "time": 1.9667, "x": 0.453, "y": 0.453 }
+				]
+			}
+		}
+	}
+}
+}

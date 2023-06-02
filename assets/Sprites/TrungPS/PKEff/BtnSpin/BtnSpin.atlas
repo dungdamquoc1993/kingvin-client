@@ -1,0 +1,202 @@
+
+BtnSpin.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 404, 52
+  size: 288, 129
+  orig: 288, 129
+  offset: 0, 0
+  index: -1
+bg_00000
+  rotate: false
+  xy: 2, 1812
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00001
+  rotate: false
+  xy: 2, 1631
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00002
+  rotate: false
+  xy: 404, 1812
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00003
+  rotate: false
+  xy: 2, 1450
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00004
+  rotate: false
+  xy: 404, 1631
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00005
+  rotate: false
+  xy: 2, 1269
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00006
+  rotate: false
+  xy: 404, 1450
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00007
+  rotate: true
+  xy: 806, 1591
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00008
+  rotate: false
+  xy: 2, 1088
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00009
+  rotate: false
+  xy: 404, 1269
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00010
+  rotate: false
+  xy: 2, 907
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00011
+  rotate: false
+  xy: 404, 1088
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00012
+  rotate: true
+  xy: 806, 1189
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00013
+  rotate: false
+  xy: 2, 726
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00014
+  rotate: false
+  xy: 404, 907
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00015
+  rotate: false
+  xy: 2, 545
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00016
+  rotate: false
+  xy: 404, 726
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00017
+  rotate: true
+  xy: 806, 787
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00018
+  rotate: false
+  xy: 2, 364
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00019
+  rotate: false
+  xy: 404, 545
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00020
+  rotate: false
+  xy: 2, 183
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00021
+  rotate: false
+  xy: 404, 364
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00022
+  rotate: true
+  xy: 806, 385
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00023
+  rotate: false
+  xy: 2, 2
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+bg_00024
+  rotate: false
+  xy: 404, 183
+  size: 400, 179
+  orig: 400, 179
+  offset: 0, 0
+  index: -1
+dung
+  rotate: false
+  xy: 806, 311
+  size: 153, 72
+  orig: 153, 72
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 806, 243
+  size: 152, 66
+  orig: 152, 66
+  offset: 0, 0
+  index: -1

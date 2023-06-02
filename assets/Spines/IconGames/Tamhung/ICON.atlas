@@ -1,0 +1,34 @@
+
+ICON.png
+size: 752,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 532, 159
+  size: 182, 343
+  orig: 182, 343
+  offset: 0, 0
+  index: -1
+QUANVAN
+  rotate: false
+  xy: 532, 81
+  size: 218, 76
+  orig: 221, 80
+  offset: 1, 2
+  index: -1
+QUANVU
+  rotate: true
+  xy: 2, 20
+  size: 482, 528
+  orig: 484, 530
+  offset: 1, 1
+  index: -1
+TRUONG
+  rotate: false
+  xy: 532, 2
+  size: 170, 77
+  orig: 172, 81
+  offset: 1, 2
+  index: -1

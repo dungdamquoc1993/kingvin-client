@@ -1,0 +1,160 @@
+
+my nhan ngu bonus game.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qua cau sang
+  rotate: true
+  xy: 1513, 605
+  size: 130, 126
+  orig: 130, 126
+  offset: 0, 0
+  index: -1
+qua cau sang 10
+  rotate: true
+  xy: 2, 231
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+qua cau sang 11
+  rotate: false
+  xy: 236, 717
+  size: 234, 233
+  orig: 234, 233
+  offset: 0, 0
+  index: -1
+qua cau sang 12
+  rotate: true
+  xy: 472, 717
+  size: 233, 234
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+qua cau sang 13
+  rotate: false
+  xy: 236, 482
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+qua cau sang 14
+  rotate: false
+  xy: 708, 718
+  size: 234, 232
+  orig: 234, 232
+  offset: 0, 0
+  index: -1
+qua cau sang 15
+  rotate: false
+  xy: 2, 703
+  size: 232, 247
+  orig: 232, 247
+  offset: 0, 0
+  index: -1
+qua cau sang 16
+  rotate: false
+  xy: 236, 248
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+qua cau sang 17
+  rotate: true
+  xy: 2, 466
+  size: 235, 232
+  orig: 235, 232
+  offset: 0, 0
+  index: -1
+qua cau sang 18
+  rotate: false
+  xy: 471, 484
+  size: 232, 231
+  orig: 232, 231
+  offset: 0, 0
+  index: -1
+qua cau sang 19
+  rotate: false
+  xy: 2, 2
+  size: 229, 227
+  orig: 229, 227
+  offset: 0, 0
+  index: -1
+qua cau sang 2
+  rotate: false
+  xy: 1346, 563
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+qua cau sang 20
+  rotate: false
+  xy: 1614, 739
+  size: 213, 211
+  orig: 213, 211
+  offset: 0, 0
+  index: -1
+qua cau sang 21
+  rotate: true
+  xy: 436, 51
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+qua cau sang 22
+  rotate: false
+  xy: 1175, 580
+  size: 169, 148
+  orig: 169, 148
+  offset: 0, 0
+  index: -1
+qua cau sang 3
+  rotate: true
+  xy: 625, 71
+  size: 185, 183
+  orig: 185, 183
+  offset: 0, 0
+  index: -1
+qua cau sang 4
+  rotate: false
+  xy: 236, 49
+  size: 198, 197
+  orig: 198, 197
+  offset: 0, 0
+  index: -1
+qua cau sang 5
+  rotate: false
+  xy: 1829, 743
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+qua cau sang 6
+  rotate: false
+  xy: 1398, 737
+  size: 214, 213
+  orig: 214, 213
+  offset: 0, 0
+  index: -1
+qua cau sang 7
+  rotate: false
+  xy: 1175, 730
+  size: 221, 220
+  orig: 221, 220
+  offset: 0, 0
+  index: -1
+qua cau sang 8
+  rotate: false
+  xy: 471, 258
+  size: 225, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+qua cau sang 9
+  rotate: false
+  xy: 944, 721
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1

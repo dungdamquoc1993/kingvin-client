@@ -1,0 +1,214 @@
+
+tien xu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong xu
+  rotate: true
+  xy: 1972, 1758
+  size: 284, 66
+  orig: 286, 69
+  offset: 1, 1
+  index: -1
+dong xu 11
+  rotate: true
+  xy: 984, 160
+  size: 672, 410
+  orig: 674, 412
+  offset: 1, 1
+  index: -1
+dong xu 12
+  rotate: true
+  xy: 528, 145
+  size: 693, 454
+  orig: 695, 456
+  offset: 1, 1
+  index: -1
+dong xu 18
+  rotate: true
+  xy: 2, 6
+  size: 826, 524
+  orig: 828, 525
+  offset: 1, 0
+  index: -1
+dong xu 22
+  rotate: false
+  xy: 2, 840
+  size: 922, 589
+  orig: 924, 591
+  offset: 1, 1
+  index: -1
+dong xu 26
+  rotate: false
+  xy: 990, 834
+  size: 964, 599
+  orig: 966, 600
+  offset: 1, 0
+  index: -1
+dong xu 27
+  rotate: false
+  xy: 990, 1435
+  size: 980, 607
+  orig: 983, 610
+  offset: 2, 1
+  index: -1
+dong xu 28
+  rotate: false
+  xy: 2, 1431
+  size: 986, 611
+  orig: 989, 613
+  offset: 2, 1
+  index: -1
+dong xu 4
+  rotate: false
+  xy: 528, 2
+  size: 499, 141
+  orig: 501, 143
+  offset: 1, 1
+  index: -1
+dong xu 5
+  rotate: false
+  xy: 1396, 18
+  size: 542, 179
+  orig: 544, 181
+  offset: 1, 1
+  index: -1
+dong xu 8
+  rotate: false
+  xy: 1396, 199
+  size: 609, 296
+  orig: 611, 297
+  offset: 1, 0
+  index: -1
+dong xu 9
+  rotate: false
+  xy: 1396, 497
+  size: 631, 335
+  orig: 633, 336
+  offset: 1, 0
+  index: -1
+
+tien xu2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong xu 16
+  rotate: false
+  xy: 956, 980
+  size: 778, 449
+  orig: 780, 450
+  offset: 1, 0
+  index: -1
+dong xu 17
+  rotate: true
+  xy: 1539, 170
+  size: 802, 486
+  orig: 804, 488
+  offset: 1, 1
+  index: -1
+dong xu 2
+  rotate: true
+  xy: 1913, 974
+  size: 545, 99
+  orig: 547, 101
+  offset: 1, 1
+  index: -1
+dong xu 20
+  rotate: false
+  xy: 2, 261
+  size: 874, 572
+  orig: 876, 574
+  offset: 1, 1
+  index: -1
+dong xu 21
+  rotate: true
+  xy: 956, 75
+  size: 897, 581
+  orig: 899, 583
+  offset: 1, 1
+  index: -1
+dong xu 23
+  rotate: false
+  xy: 2, 835
+  size: 952, 598
+  orig: 954, 599
+  offset: 1, 0
+  index: -1
+dong xu 24
+  rotate: false
+  xy: 2, 1435
+  size: 960, 603
+  orig: 962, 604
+  offset: 1, 0
+  index: -1
+dong xu 25
+  rotate: false
+  xy: 964, 1431
+  size: 947, 607
+  orig: 949, 610
+  offset: 1, 2
+  index: -1
+dong xu 3
+  rotate: true
+  xy: 1913, 1521
+  size: 517, 105
+  orig: 519, 106
+  offset: 1, 0
+  index: -1
+dong xu 7
+  rotate: false
+  xy: 2, 2
+  size: 587, 257
+  orig: 589, 259
+  offset: 1, 1
+  index: -1
+
+tien xu3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong xu 10
+  rotate: true
+  xy: 382, 84
+  size: 652, 371
+  orig: 654, 373
+  offset: 1, 1
+  index: -1
+dong xu 13
+  rotate: false
+  xy: 2, 738
+  size: 714, 491
+  orig: 715, 492
+  offset: 0, 0
+  index: -1
+dong xu 14
+  rotate: true
+  xy: 2, 2
+  size: 734, 378
+  orig: 736, 380
+  offset: 1, 1
+  index: -1
+dong xu 15
+  rotate: false
+  xy: 854, 1379
+  size: 754, 413
+  orig: 756, 414
+  offset: 1, 0
+  index: -1
+dong xu 19
+  rotate: false
+  xy: 2, 1231
+  size: 850, 561
+  orig: 852, 563
+  offset: 1, 1
+  index: -1
+dong xu 6
+  rotate: false
+  xy: 854, 1159
+  size: 565, 218
+  orig: 567, 220
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+xhu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cha
+  rotate: false
+  xy: 2, 55
+  size: 290, 195
+  orig: 290, 195
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 294, 173
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 2, 2
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1

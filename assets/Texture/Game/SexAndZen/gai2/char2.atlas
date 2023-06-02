@@ -1,0 +1,55 @@
+
+char2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nguoi
+  rotate: false
+  xy: 2, 64
+  size: 154, 185
+  orig: 154, 185
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 92, 24
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 2, 2
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 356, 200
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 158, 64
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+toc3
+  rotate: false
+  xy: 158, 120
+  size: 105, 129
+  orig: 105, 129
+  offset: 0, 0
+  index: -1
+toc4
+  rotate: false
+  xy: 265, 143
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1

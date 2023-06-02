@@ -1,0 +1,195 @@
+
+cuop bien.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh sang
+  rotate: true
+  xy: 2, 2
+  size: 118, 130
+  orig: 169, 185
+  offset: 27, 27
+  index: -1
+anh sang 10
+  rotate: true
+  xy: 196, 123
+  size: 191, 193
+  orig: 193, 193
+  offset: 2, 0
+  index: -1
+anh sang 11
+  rotate: false
+  xy: 2, 316
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+anh sang 12
+  rotate: false
+  xy: 2, 122
+  size: 192, 192
+  orig: 193, 193
+  offset: 1, 1
+  index: -1
+anh sang 13
+  rotate: true
+  xy: 391, 125
+  size: 189, 186
+  orig: 193, 193
+  offset: 4, 6
+  index: -1
+anh sang 14
+  rotate: false
+  xy: 941, 155
+  size: 181, 170
+  orig: 193, 193
+  offset: 12, 15
+  index: -1
+anh sang 2
+  rotate: false
+  xy: 1118, 343
+  size: 158, 166
+  orig: 193, 193
+  offset: 18, 17
+  index: -1
+anh sang 3
+  rotate: true
+  xy: 944, 334
+  size: 175, 172
+  orig: 193, 193
+  offset: 10, 13
+  index: -1
+anh sang 4
+  rotate: false
+  xy: 764, 149
+  size: 175, 176
+  orig: 193, 193
+  offset: 12, 7
+  index: -1
+anh sang 5
+  rotate: true
+  xy: 763, 327
+  size: 182, 179
+  orig: 193, 193
+  offset: 8, 5
+  index: -1
+anh sang 6
+  rotate: true
+  xy: 580, 325
+  size: 184, 181
+  orig: 193, 193
+  offset: 6, 4
+  index: -1
+anh sang 7
+  rotate: true
+  xy: 579, 127
+  size: 187, 183
+  orig: 193, 193
+  offset: 5, 4
+  index: -1
+anh sang 8
+  rotate: true
+  xy: 389, 316
+  size: 193, 189
+  orig: 193, 193
+  offset: 0, 2
+  index: -1
+anh sang 9
+  rotate: true
+  xy: 197, 317
+  size: 192, 190
+  orig: 193, 193
+  offset: 1, 1
+  index: -1
+bap chan phai
+  rotate: true
+  xy: 134, 27
+  size: 93, 135
+  orig: 93, 135
+  offset: 0, 0
+  index: -1
+bap chan trai
+  rotate: true
+  xy: 844, 42
+  size: 105, 67
+  orig: 105, 67
+  offset: 0, 0
+  index: -1
+bap tay phai
+  rotate: false
+  xy: 988, 86
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+bap tay trai
+  rotate: true
+  xy: 491, 93
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+blade
+  rotate: false
+  xy: 271, 67
+  size: 218, 54
+  orig: 218, 55
+  offset: 0, 0
+  index: -1
+bot bia
+  rotate: false
+  xy: 562, 96
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+canh tay phai
+  rotate: true
+  xy: 393, 18
+  size: 47, 77
+  orig: 48, 78
+  offset: 1, 1
+  index: -1
+canh tay trai
+  rotate: false
+  xy: 913, 58
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+chan phai
+  rotate: true
+  xy: 527, 20
+  size: 71, 129
+  orig: 72, 129
+  offset: 1, 0
+  index: -1
+chan trai
+  rotate: false
+  xy: 758, 32
+  size: 84, 93
+  orig: 86, 93
+  offset: 1, 0
+  index: -1
+dau
+  rotate: false
+  xy: 472, 3
+  size: 53, 62
+  orig: 54, 62
+  offset: 1, 0
+  index: -1
+than nguoi
+  rotate: true
+  xy: 658, 15
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+that lung
+  rotate: false
+  xy: 271, 10
+  size: 120, 55
+  orig: 120, 55
+  offset: 0, 0
+  index: -1

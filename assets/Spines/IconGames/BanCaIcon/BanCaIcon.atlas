@@ -1,0 +1,27 @@
+
+BanCaIcon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1 copy1
+  rotate: false
+  xy: 2, 466
+  size: 296, 542
+  orig: 296, 542
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 2, 2
+  size: 462, 232
+  orig: 462, 232
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 300, 635
+  size: 324, 373
+  orig: 324, 373
+  offset: 0, 0
+  index: -1

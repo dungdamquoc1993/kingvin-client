@@ -1,0 +1,48 @@
+
+iteamxocdia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgxoc
+  rotate: false
+  xy: 2, 48
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 209, 48
+  size: 106, 54
+  orig: 106, 54
+  offset: 0, 0
+  index: -1
+dianen
+  rotate: false
+  xy: 209, 104
+  size: 160, 150
+  orig: 160, 150
+  offset: 0, 0
+  index: -1
+hatdo
+  rotate: false
+  xy: 371, 151
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+hattrang
+  rotate: true
+  xy: 2, 2
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+xoc
+  rotate: false
+  xy: 371, 199
+  size: 123, 55
+  orig: 123, 55
+  offset: 0, 0
+  index: -1

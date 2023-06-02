@@ -1,0 +1,51 @@
+{
+    "skeleton": {
+        "hash": "PEF8m2v89CaUZ/ILxin0f7wWUGQ",
+        "spine": "3.7.94",
+        "width": 295,
+        "height": 292,
+        "images": "../",
+        "audio": ""
+    },
+    "bones": [{
+        "name": "root"
+    }, {
+        "name": "bone",
+        "parent": "root"
+    }],
+    "slots": [{
+        "name": "effect_xoay_khi_dem",
+        "bone": "bone",
+        "attachment": "effect_xoay_khi_dem",
+        "blend": "additive"
+    }],
+    "skins": {
+        "default": {
+            "effect_xoay_khi_dem": {
+                "effect_xoay_khi_dem": {
+                    "x": 0.5,
+                    "width": 295,
+                    "height": 292
+                }
+            }
+        }
+    },
+    "animations": {
+        "animation": {
+            "bones": {
+                "bone": {
+                    "rotate": [{
+                        "time": 0,
+                        "angle": 0
+                    }, {
+                        "time": 1,
+                        "angle": 180
+                    }, {
+                        "time": 2,
+                        "angle": 0
+                    }]
+                }
+            }
+        }
+    }
+}

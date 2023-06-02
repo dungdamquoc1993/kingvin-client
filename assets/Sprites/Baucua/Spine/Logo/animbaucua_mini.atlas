@@ -1,0 +1,76 @@
+
+animbaucua_mini.png
+size: 354,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-quay auto
+  rotate: true
+  xy: 182, 225
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 314, 305
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+cai day
+  rotate: false
+  xy: 153, 3
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+cai dia
+  rotate: false
+  xy: 1, 326
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+cairuong
+  rotate: false
+  xy: 302, 105
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 243, 159
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1, 1
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 182, 339
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 1, 152
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+vong xoay
+  rotate: false
+  xy: 175, 153
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1

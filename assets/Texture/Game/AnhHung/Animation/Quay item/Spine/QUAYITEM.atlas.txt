@@ -1,0 +1,167 @@
+
+QUAYITEM.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00005
+  rotate: false
+  xy: 760, 80
+  size: 110, 85
+  orig: 112, 87
+  offset: 1, 1
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 638, 79
+  size: 120, 86
+  orig: 122, 88
+  offset: 1, 1
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 380, 80
+  size: 130, 86
+  orig: 132, 88
+  offset: 1, 1
+  index: -1
+Comp 1_00008
+  rotate: true
+  xy: 1463, 12
+  size: 134, 88
+  orig: 136, 90
+  offset: 1, 1
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 512, 52
+  size: 124, 113
+  orig: 126, 115
+  offset: 1, 1
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 1553, 15
+  size: 114, 134
+  orig: 116, 136
+  offset: 1, 1
+  index: -1
+Comp 1_00011
+  rotate: true
+  xy: 1879, 15
+  size: 99, 151
+  orig: 101, 153
+  offset: 1, 1
+  index: -1
+Comp 1_00012
+  rotate: true
+  xy: 175, 75
+  size: 90, 169
+  orig: 92, 171
+  offset: 1, 1
+  index: -1
+Comp 1_00013
+  rotate: true
+  xy: 1711, 166
+  size: 88, 184
+  orig: 90, 186
+  offset: 1, 1
+  index: -1
+Comp 1_00014
+  rotate: true
+  xy: 584, 167
+  size: 87, 193
+  orig: 89, 195
+  offset: 1, 1
+  index: -1
+Comp 1_00015
+  rotate: true
+  xy: 779, 167
+  size: 87, 192
+  orig: 89, 194
+  offset: 1, 1
+  index: -1
+Comp 1_00016
+  rotate: true
+  xy: 1533, 151
+  size: 103, 176
+  orig: 105, 178
+  offset: 1, 1
+  index: -1
+Comp 1_00017
+  rotate: true
+  xy: 1165, 34
+  size: 123, 152
+  orig: 125, 154
+  offset: 1, 1
+  index: -1
+Comp 1_00018
+  rotate: false
+  xy: 1319, 11
+  size: 142, 135
+  orig: 144, 137
+  offset: 1, 1
+  index: -1
+Comp 1_00019
+  rotate: false
+  xy: 1711, 50
+  size: 166, 114
+  orig: 168, 116
+  offset: 1, 1
+  index: -1
+Comp 1_00020
+  rotate: false
+  xy: 1165, 159
+  size: 185, 95
+  orig: 187, 97
+  offset: 1, 1
+  index: -1
+Comp 1_00021
+  rotate: false
+  xy: 380, 168
+  size: 202, 86
+  orig: 204, 88
+  offset: 1, 1
+  index: -1
+Comp 1_00022
+  rotate: false
+  xy: 175, 167
+  size: 203, 87
+  orig: 205, 89
+  offset: 1, 1
+  index: -1
+Comp 1_00023
+  rotate: false
+  xy: 973, 154
+  size: 190, 100
+  orig: 192, 102
+  offset: 1, 1
+  index: -1
+Comp 1_00024
+  rotate: false
+  xy: 2, 131
+  size: 171, 123
+  orig: 173, 125
+  offset: 1, 1
+  index: -1
+Comp 1_00025
+  rotate: false
+  xy: 1897, 116
+  size: 144, 138
+  orig: 146, 140
+  offset: 1, 1
+  index: -1
+Comp 1_00026
+  rotate: true
+  xy: 2, 2
+  size: 127, 161
+  orig: 129, 163
+  offset: 1, 1
+  index: -1
+Comp 1_00027
+  rotate: true
+  xy: 1352, 148
+  size: 106, 179
+  orig: 108, 181
+  offset: 1, 1
+  index: -1

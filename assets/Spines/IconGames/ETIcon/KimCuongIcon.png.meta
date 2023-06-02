@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "c879d37a-fa08-4e87-8a97-db8ceae54afb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuongIcon": {
+      "ver": "1.0.4",
+      "uuid": "c2d3fe51-edc2-4342-b8eb-4f5915ba58be",
+      "rawTextureUuid": "c879d37a-fa08-4e87-8a97-db8ceae54afb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 503,
+      "height": 250,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

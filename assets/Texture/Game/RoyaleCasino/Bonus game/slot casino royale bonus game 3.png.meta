@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "366e87c0-69fb-41a7-98ed-f1ce098a10be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "slot casino royale bonus game 3": {
+      "ver": "1.0.4",
+      "uuid": "7e50e63d-307d-4ba3-b67c-88a761053df8",
+      "rawTextureUuid": "366e87c0-69fb-41a7-98ed-f1ce098a10be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

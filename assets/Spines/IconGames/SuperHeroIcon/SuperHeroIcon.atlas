@@ -1,0 +1,292 @@
+
+SuperHeroIcon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pre-comp 1_00000
+  rotate: false
+  xy: 263, 783
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00001
+  rotate: false
+  xy: 306, 2
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00002
+  rotate: false
+  xy: 558, 65
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00003
+  rotate: false
+  xy: 515, 783
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00004
+  rotate: true
+  xy: 610, 213
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00005
+  rotate: true
+  xy: 658, 531
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00006
+  rotate: false
+  xy: 692, 449
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00007
+  rotate: true
+  xy: 740, 531
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00008
+  rotate: false
+  xy: 767, 783
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00009
+  rotate: true
+  xy: 822, 531
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00010
+  rotate: true
+  xy: 904, 531
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00011
+  rotate: true
+  xy: 810, 197
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00012
+  rotate: true
+  xy: 692, 197
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+Pre-comp 1_00013
+  rotate: true
+  xy: 913, 58
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 359
+  size: 198, 359
+  orig: 198, 359
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 202, 360
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+set_00000
+  rotate: false
+  xy: 2, 200
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00001
+  rotate: false
+  xy: 2, 41
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00002
+  rotate: false
+  xy: 154, 200
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00003
+  rotate: false
+  xy: 154, 41
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00004
+  rotate: false
+  xy: 202, 561
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00005
+  rotate: false
+  xy: 202, 402
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00006
+  rotate: false
+  xy: 263, 865
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00007
+  rotate: false
+  xy: 415, 865
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00008
+  rotate: false
+  xy: 306, 243
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00009
+  rotate: false
+  xy: 306, 84
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00010
+  rotate: false
+  xy: 354, 624
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00011
+  rotate: false
+  xy: 354, 465
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00012
+  rotate: false
+  xy: 458, 306
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00013
+  rotate: false
+  xy: 458, 147
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00014
+  rotate: false
+  xy: 506, 624
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00015
+  rotate: false
+  xy: 567, 865
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00016
+  rotate: false
+  xy: 719, 865
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+set_00017
+  rotate: false
+  xy: 506, 465
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+super
+  rotate: true
+  xy: 810, 25
+  size: 170, 101
+  orig: 170, 101
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 944, 381
+  size: 148, 66
+  orig: 148, 66
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 892, 310
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+tay3
+  rotate: true
+  xy: 871, 915
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 720
+  size: 259, 302
+  orig: 259, 302
+  offset: 0, 0
+  index: -1
+
+SuperHeroIcon2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pre-comp 1_00014
+  rotate: false
+  xy: 2, 2
+  size: 250, 80
+  orig: 250, 80
+  offset: 0, 0
+  index: -1

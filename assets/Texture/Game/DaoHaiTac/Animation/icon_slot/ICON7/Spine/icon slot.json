@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "8A2OdWMLD5Zg5/nZRvmo8/IKsIE", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone14", "parent": "root", "length": 54.84, "rotation": 51.37, "x": -18.52, "y": -13.64 },
+	{ "name": "bone15", "parent": "bone14", "length": 28.6, "rotation": 25.79, "x": 62.32, "y": -31.03 }
+],
+"slots": [
+	{ "name": "dao", "bone": "bone14" },
+	{ "name": "anh sang dao", "bone": "bone15" }
+],
+"skins": {
+	"default": {
+		"anh sang dao": {
+			"anh sang dao": { "x": 0.98, "y": 2.12, "rotation": -77.16, "width": 51, "height": 51 }
+		},
+		"dao": {
+			"dao": { "x": 28.01, "y": -1.03, "rotation": -51.37, "width": 105, "height": 122 }
+		}
+	}
+},
+"animations": {
+	"icon 7": {
+		"slots": {
+			"anh sang dao": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.2333, "color": "ffffff1d" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang dao" }
+				]
+			},
+			"dao": {
+				"attachment": [
+					{ "time": 0, "name": "dao" }
+				]
+			}
+		},
+		"bones": {
+			"bone15": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 134.98 },
+					{ "time": 0.9667, "angle": -151.21 },
+					{ "time": 1.6667, "angle": -49.09 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.6667, "x": 0.475, "y": 0.475 }
+				]
+			},
+			"bone14": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 5.79 },
+					{ "time": 1.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

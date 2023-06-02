@@ -1,0 +1,59 @@
+{
+"skeleton": { "hash": "bbE4m6PIa3rOx+zjzbSppKp5mC8", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root", "length": 15.68, "rotation": 84.29, "x": -7.5, "y": -12.59 },
+	{ "name": "bone3", "parent": "root", "length": 20.5, "rotation": 74.55, "x": 1.08, "y": 21.99 }
+],
+"slots": [
+	{ "name": "tui kim cuong", "bone": "bone2" },
+	{ "name": "anh sang tui kim cuong", "bone": "bone3" }
+],
+"skins": {
+	"default": {
+		"anh sang tui kim cuong": {
+			"anh sang tui kim cuong": { "x": -1.33, "y": -0.19, "rotation": -74.55, "width": 70, "height": 70 }
+		},
+		"tui kim cuong": {
+			"tui kim cuong": { "x": 13.37, "y": -5.61, "rotation": -84.29, "width": 73, "height": 71 }
+		}
+	}
+},
+"animations": {
+	"icon 14": {
+		"slots": {
+			"anh sang tui kim cuong": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffffcb" },
+					{ "time": 2.2333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang tui kim cuong" }
+				]
+			},
+			"tui kim cuong": {
+				"attachment": [
+					{ "time": 0, "name": "tui kim cuong" }
+				]
+			}
+		},
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": -118.47 },
+					{ "time": 1.4667, "angle": 162.46 },
+					{ "time": 2.2333, "angle": 60.14 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.064, "y": 1.064 },
+					{ "time": 0.8333, "x": 1.413, "y": 1.413 },
+					{ "time": 2.2333, "x": 0.769, "y": 0.769 }
+				]
+			}
+		}
+	}
+}
+}

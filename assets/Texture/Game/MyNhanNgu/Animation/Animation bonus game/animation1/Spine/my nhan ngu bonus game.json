@@ -1,0 +1,246 @@
+{
+"skeleton": { "hash": "Vygh6aL1LllH4cxIfO9kvV3LbSk", "spine": "3.6.53", "width": 0, "height": 0},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 80.22, "rotation": 78.2, "x": 746.33, "y": 277.68 }
+],
+"slots": [
+	{ "name": "qua cau sang", "bone": "bone" },
+	{ "name": "qua cau sang 2", "bone": "bone" },
+	{ "name": "qua cau sang 3", "bone": "bone" },
+	{ "name": "qua cau sang 4", "bone": "bone" },
+	{ "name": "qua cau sang 5", "bone": "bone" },
+	{ "name": "qua cau sang 6", "bone": "bone" },
+	{ "name": "qua cau sang 7", "bone": "bone" },
+	{ "name": "qua cau sang 8", "bone": "bone" },
+	{ "name": "qua cau sang 9", "bone": "bone" },
+	{ "name": "qua cau sang 10", "bone": "bone" },
+	{ "name": "qua cau sang 11", "bone": "bone" },
+	{ "name": "qua cau sang 12", "bone": "bone" },
+	{ "name": "qua cau sang 13", "bone": "bone" },
+	{ "name": "qua cau sang 14", "bone": "bone" },
+	{ "name": "qua cau sang 15", "bone": "bone" },
+	{ "name": "qua cau sang 16", "bone": "bone" },
+	{ "name": "qua cau sang 17", "bone": "bone" },
+	{ "name": "qua cau sang 18", "bone": "bone" },
+	{ "name": "qua cau sang 19", "bone": "bone" },
+	{ "name": "qua cau sang 20", "bone": "bone" },
+	{ "name": "qua cau sang 21", "bone": "bone" },
+	{ "name": "qua cau sang 22", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"qua cau sang": {
+			"qua cau sang": { "x": 36.17, "y": 5.79, "rotation": -78.2, "width": 130, "height": 126 }
+		},
+		"qua cau sang 10": {
+			"qua cau sang 10": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 233, "height": 232 }
+		},
+		"qua cau sang 11": {
+			"qua cau sang 11": { "x": 35.68, "y": 5.69, "rotation": -78.2, "width": 234, "height": 233 }
+		},
+		"qua cau sang 12": {
+			"qua cau sang 12": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 233, "height": 234 }
+		},
+		"qua cau sang 13": {
+			"qua cau sang 13": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 233, "height": 233 }
+		},
+		"qua cau sang 14": {
+			"qua cau sang 14": { "x": 36.17, "y": 5.79, "rotation": -78.2, "width": 234, "height": 232 }
+		},
+		"qua cau sang 15": {
+			"qua cau sang 15": { "x": 41.55, "y": 6.92, "rotation": -78.2, "width": 232, "height": 247 }
+		},
+		"qua cau sang 16": {
+			"qua cau sang 16": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 233, "height": 232 }
+		},
+		"qua cau sang 17": {
+			"qua cau sang 17": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 235, "height": 232 }
+		},
+		"qua cau sang 18": {
+			"qua cau sang 18": { "x": 35.68, "y": 5.69, "rotation": -78.2, "width": 232, "height": 231 }
+		},
+		"qua cau sang 19": {
+			"qua cau sang 19": { "x": 35.78, "y": 5.2, "rotation": -78.2, "width": 229, "height": 227 }
+		},
+		"qua cau sang 2": {
+			"qua cau sang 2": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 165, "height": 165 }
+		},
+		"qua cau sang 20": {
+			"qua cau sang 20": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 213, "height": 211 }
+		},
+		"qua cau sang 21": {
+			"qua cau sang 21": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 195, "height": 187 }
+		},
+		"qua cau sang 22": {
+			"qua cau sang 22": { "x": 36.27, "y": 5.3, "rotation": -78.2, "width": 169, "height": 148 }
+		},
+		"qua cau sang 3": {
+			"qua cau sang 3": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 185, "height": 183 }
+		},
+		"qua cau sang 4": {
+			"qua cau sang 4": { "x": 35.68, "y": 5.69, "rotation": -78.2, "width": 198, "height": 197 }
+		},
+		"qua cau sang 5": {
+			"qua cau sang 5": { "x": 35.58, "y": 6.18, "rotation": -78.2, "width": 207, "height": 207 }
+		},
+		"qua cau sang 6": {
+			"qua cau sang 6": { "x": 35.68, "y": 5.69, "rotation": -78.2, "width": 214, "height": 213 }
+		},
+		"qua cau sang 7": {
+			"qua cau sang 7": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 221, "height": 220 }
+		},
+		"qua cau sang 8": {
+			"qua cau sang 8": { "x": 36.07, "y": 6.28, "rotation": -78.2, "width": 225, "height": 224 }
+		},
+		"qua cau sang 9": {
+			"qua cau sang 9": { "x": 36.76, "y": 5.41, "rotation": -78.2, "width": 229, "height": 229 }
+		}
+	}
+},
+"animations": {
+	"effect ra vat pham": {
+		"slots": {
+			"qua cau sang": {
+				"attachment": [
+					{ "time": 0, "name": "qua cau sang" },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"qua cau sang 2": {
+				"attachment": [
+					{ "time": 0.0333, "name": "qua cau sang 2" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"qua cau sang 3": {
+				"attachment": [
+					{ "time": 0.0667, "name": "qua cau sang 3" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"qua cau sang 4": {
+				"attachment": [
+					{ "time": 0.1, "name": "qua cau sang 4" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"qua cau sang 5": {
+				"attachment": [
+					{ "time": 0.1333, "name": "qua cau sang 5" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"qua cau sang 6": {
+				"attachment": [
+					{ "time": 0.1667, "name": "qua cau sang 6" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"qua cau sang 7": {
+				"attachment": [
+					{ "time": 0.2, "name": "qua cau sang 7" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"qua cau sang 8": {
+				"attachment": [
+					{ "time": 0.2333, "name": "qua cau sang 8" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"qua cau sang 9": {
+				"attachment": [
+					{ "time": 0.2667, "name": "qua cau sang 9" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"qua cau sang 10": {
+				"attachment": [
+					{ "time": 0.3, "name": "qua cau sang 10" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"qua cau sang 11": {
+				"attachment": [
+					{ "time": 0.3333, "name": "qua cau sang 11" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"qua cau sang 12": {
+				"attachment": [
+					{ "time": 0.3667, "name": "qua cau sang 12" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"qua cau sang 13": {
+				"attachment": [
+					{ "time": 0.4, "name": "qua cau sang 13" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"qua cau sang 14": {
+				"attachment": [
+					{ "time": 0.4333, "name": "qua cau sang 14" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"qua cau sang 15": {
+				"attachment": [
+					{ "time": 0.4667, "name": "qua cau sang 15" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"qua cau sang 16": {
+				"attachment": [
+					{ "time": 0.5, "name": "qua cau sang 16" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"qua cau sang 17": {
+				"attachment": [
+					{ "time": 0.5333, "name": "qua cau sang 17" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"qua cau sang 18": {
+				"attachment": [
+					{ "time": 0.5667, "name": "qua cau sang 18" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"qua cau sang 19": {
+				"attachment": [
+					{ "time": 0.6, "name": "qua cau sang 19" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"qua cau sang 20": {
+				"attachment": [
+					{ "time": 0.6333, "name": "qua cau sang 20" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"qua cau sang 21": {
+				"attachment": [
+					{ "time": 0.6667, "name": "qua cau sang 21" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"qua cau sang 22": {
+				"attachment": [
+					{ "time": 0.7, "name": "qua cau sang 22" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "time": 0, "x": -747.27, "y": -276.06 }
+				]
+			}
+		}
+	}
+}
+}

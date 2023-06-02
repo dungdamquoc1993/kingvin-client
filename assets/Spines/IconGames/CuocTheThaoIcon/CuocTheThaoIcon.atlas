@@ -1,0 +1,139 @@
+
+CuocTheThaoIcon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong88
+  rotate: false
+  xy: 2, 25
+  size: 274, 46
+  orig: 274, 46
+  offset: 0, 0
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 495, 796
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy
+  rotate: false
+  xy: 183, 631
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Shape 1
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 732
+  size: 285, 261
+  orig: 285, 261
+  offset: 0, 0
+  index: -1
+bong_01
+  rotate: false
+  xy: 2, 279
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_02
+  rotate: false
+  xy: 2, 73
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_03
+  rotate: false
+  xy: 558, 789
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_04
+  rotate: false
+  xy: 764, 789
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_05
+  rotate: false
+  xy: 289, 645
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_06
+  rotate: false
+  xy: 495, 583
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_07
+  rotate: false
+  xy: 701, 583
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_08
+  rotate: false
+  xy: 284, 439
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+bong_10
+  rotate: false
+  xy: 490, 377
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+cha
+  rotate: false
+  xy: 2, 485
+  size: 179, 245
+  orig: 179, 245
+  offset: 0, 0
+  index: -1
+cha - Copy
+  rotate: true
+  xy: 289, 851
+  size: 142, 267
+  orig: 142, 267
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 183, 516
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: true
+  xy: 907, 674
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+live
+  rotate: true
+  xy: 970, 937
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1

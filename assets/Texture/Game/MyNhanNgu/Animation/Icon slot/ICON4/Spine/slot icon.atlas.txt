@@ -1,0 +1,48 @@
+
+slot icon.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca map
+  rotate: false
+  xy: 2, 110
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+duoi ca map
+  rotate: false
+  xy: 2, 42
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+mat ca map
+  rotate: false
+  xy: 131, 160
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+mat ca map 2
+  rotate: false
+  xy: 56, 81
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+mom ca map
+  rotate: false
+  xy: 131, 185
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+vay ca map
+  rotate: false
+  xy: 2, 2
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1

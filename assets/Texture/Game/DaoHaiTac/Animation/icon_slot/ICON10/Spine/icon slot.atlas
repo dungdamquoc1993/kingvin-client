@@ -1,0 +1,20 @@
+
+icon slot.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh sang icon ruong 2
+  rotate: false
+  xy: 2, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+icon ruong 2
+  rotate: false
+  xy: 99, 55
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1

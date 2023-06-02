@@ -1,0 +1,27 @@
+
+thanglon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 183
+  size: 735, 561
+  orig: 735, 561
+  offset: 0, 0
+  index: -1
+ic
+  rotate: true
+  xy: 739, 375
+  size: 369, 215
+  orig: 369, 215
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 2
+  size: 607, 179
+  orig: 607, 179
+  offset: 0, 0
+  index: -1

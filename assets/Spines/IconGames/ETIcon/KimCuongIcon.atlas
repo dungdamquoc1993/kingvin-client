@@ -1,0 +1,104 @@
+
+KimCuongIcon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 81
+  size: 190, 173
+  orig: 190, 173
+  offset: 0, 0
+  index: -1
+cha1_cha
+  rotate: false
+  xy: 194, 67
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+cha1_chan1
+  rotate: true
+  xy: 356, 113
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+cha1_chan2
+  rotate: true
+  xy: 38, 4
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+cha1_matnham
+  rotate: true
+  xy: 309, 68
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+cha1_mom
+  rotate: false
+  xy: 127, 48
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+cha1_tay1
+  rotate: false
+  xy: 389, 122
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+cha1_tay2
+  rotate: false
+  xy: 430, 129
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+cha2_cha
+  rotate: false
+  xy: 389, 155
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+cha2_chan
+  rotate: false
+  xy: 2, 45
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+cha2_matnham
+  rotate: false
+  xy: 75, 50
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+cha2_tay1
+  rotate: false
+  xy: 309, 118
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+cha2_tay2
+  rotate: true
+  xy: 2, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 194, 158
+  size: 193, 96
+  orig: 193, 96
+  offset: 0, 0
+  index: -1

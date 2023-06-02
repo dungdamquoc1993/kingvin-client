@@ -1,0 +1,20 @@
+
+icon slot.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh sang moc cau
+  rotate: false
+  xy: 125, 70
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+moc cau
+  rotate: false
+  xy: 2, 2
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1

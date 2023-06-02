@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "8b45d593-29e9-4a78-b556-6b1649d43368",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "slot sex and zen popup 10": {
+      "ver": "1.0.4",
+      "uuid": "8e1a4385-8ce9-4d0a-8c1f-740d4f2ad931",
+      "rawTextureUuid": "8b45d593-29e9-4a78-b556-6b1649d43368",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

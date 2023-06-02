@@ -1,0 +1,97 @@
+
+no hu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as 1
+  rotate: false
+  xy: 2, 188
+  size: 129, 51
+  orig: 131, 53
+  offset: 1, 1
+  index: -1
+as 2
+  rotate: false
+  xy: 1213, 406
+  size: 129, 50
+  orig: 131, 52
+  offset: 1, 1
+  index: -1
+as 3
+  rotate: false
+  xy: 2, 136
+  size: 128, 50
+  orig: 130, 52
+  offset: 1, 1
+  index: -1
+ngoi sao
+  rotate: false
+  xy: 1213, 316
+  size: 90, 88
+  orig: 92, 90
+  offset: 1, 1
+  index: -1
+ngoi sao copy
+  rotate: false
+  xy: 1213, 245
+  size: 71, 69
+  orig: 73, 71
+  offset: 1, 1
+  index: -1
+ngoi sao copy 2
+  rotate: false
+  xy: 2, 64
+  size: 71, 70
+  orig: 73, 72
+  offset: 1, 1
+  index: -1
+ngoi sao copy 3
+  rotate: false
+  xy: 2, 2
+  size: 62, 60
+  orig: 64, 62
+  offset: 1, 1
+  index: -1
+ngoi sao copy 4
+  rotate: false
+  xy: 1213, 182
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+no hu
+  rotate: false
+  xy: 2, 241
+  size: 588, 215
+  orig: 590, 217
+  offset: 1, 1
+  index: -1
+particle4u copy 24
+  rotate: false
+  xy: 133, 181
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+particle4u copy 25
+  rotate: false
+  xy: 75, 74
+  size: 59, 60
+  orig: 61, 62
+  offset: 1, 1
+  index: -1
+trang tri
+  rotate: true
+  xy: 592, 151
+  size: 305, 309
+  orig: 307, 311
+  offset: 1, 1
+  index: -1
+trang tri 2
+  rotate: true
+  xy: 903, 151
+  size: 305, 308
+  orig: 307, 310
+  offset: 1, 1
+  index: -1

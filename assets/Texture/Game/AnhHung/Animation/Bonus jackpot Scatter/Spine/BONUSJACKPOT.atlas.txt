@@ -1,0 +1,174 @@
+
+BONUSJACKPOT.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 307, 253
+  size: 256, 81
+  orig: 256, 81
+  offset: 0, 0
+  index: -1
+DONG MAU LUA1
+  rotate: true
+  xy: 2, 2
+  size: 149, 176
+  orig: 149, 176
+  offset: 0, 0
+  index: -1
+DONG MAU LUA10
+  rotate: true
+  xy: 1638, 377
+  size: 141, 164
+  orig: 141, 164
+  offset: 0, 0
+  index: -1
+DONG MAU LUA11
+  rotate: false
+  xy: 347, 90
+  size: 139, 161
+  orig: 139, 161
+  offset: 0, 0
+  index: -1
+DONG MAU LUA12
+  rotate: false
+  xy: 1327, 412
+  size: 142, 171
+  orig: 142, 171
+  offset: 0, 0
+  index: -1
+DONG MAU LUA13
+  rotate: true
+  xy: 565, 189
+  size: 145, 158
+  orig: 145, 158
+  offset: 0, 0
+  index: -1
+DONG MAU LUA14
+  rotate: false
+  xy: 1825, 501
+  size: 130, 161
+  orig: 130, 161
+  offset: 0, 0
+  index: -1
+DONG MAU LUA2
+  rotate: true
+  xy: 180, 6
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+DONG MAU LUA3
+  rotate: true
+  xy: 1659, 520
+  size: 142, 164
+  orig: 142, 164
+  offset: 0, 0
+  index: -1
+DONG MAU LUA4
+  rotate: true
+  xy: 1471, 388
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+DONG MAU LUA5
+  rotate: false
+  xy: 1184, 231
+  size: 135, 175
+  orig: 135, 175
+  offset: 0, 0
+  index: -1
+DONG MAU LUA6
+  rotate: true
+  xy: 1481, 532
+  size: 131, 176
+  orig: 131, 176
+  offset: 0, 0
+  index: -1
+DONG MAU LUA7
+  rotate: true
+  xy: 1869, 668
+  size: 143, 177
+  orig: 143, 177
+  offset: 0, 0
+  index: -1
+DONG MAU LUA8
+  rotate: true
+  xy: 1690, 664
+  size: 147, 177
+  orig: 147, 177
+  offset: 0, 0
+  index: -1
+DONG MAU LUA9
+  rotate: false
+  xy: 1184, 408
+  size: 141, 175
+  orig: 141, 175
+  offset: 0, 0
+  index: -1
+FRAMEBONUS
+  rotate: false
+  xy: 1690, 912
+  size: 334, 107
+  orig: 334, 107
+  offset: 0, 0
+  index: -1
+FRAMEJACKPOT
+  rotate: false
+  xy: 2, 236
+  size: 303, 98
+  orig: 303, 98
+  offset: 0, 0
+  index: -1
+FRAMESCATTER
+  rotate: false
+  xy: 1690, 813
+  size: 299, 97
+  orig: 299, 97
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: false
+  xy: 1183, 585
+  size: 296, 78
+  orig: 296, 78
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2, 336
+  size: 721, 683
+  orig: 721, 683
+  offset: 0, 0
+  index: -1
+NAMBONUS
+  rotate: false
+  xy: 725, 569
+  size: 456, 450
+  orig: 456, 450
+  offset: 0, 0
+  index: -1
+NAMJACKPOT
+  rotate: true
+  xy: 725, 186
+  size: 381, 457
+  orig: 381, 457
+  offset: 0, 0
+  index: -1
+NAMSCATTER
+  rotate: true
+  xy: 1183, 665
+  size: 354, 505
+  orig: 354, 505
+  offset: 0, 0
+  index: -1
+SCATTER
+  rotate: false
+  xy: 2, 153
+  size: 291, 81
+  orig: 291, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,78 @@
+{
+"skeleton": { "hash": "c4z+hyaub22mk82Ye8gz/YKr+jk", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone42", "parent": "root", "length": 19.19, "rotation": 88.6, "x": 0.19, "y": -15.21 },
+	{ "name": "bone43", "parent": "root", "length": 24.1, "rotation": 90, "x": -0.1, "y": 19.61 },
+	{ "name": "bone44", "parent": "root", "length": 17.48, "rotation": 63.78, "x": 0.37, "y": 8.14 }
+],
+"slots": [
+	{ "name": "light", "bone": "bone44" },
+	{ "name": "cup", "bone": "bone43" },
+	{ "name": "TOP", "bone": "bone42" }
+],
+"skins": {
+	"default": {
+		"TOP": {
+			"TOP": { "x": 7.88, "y": -0.69, "rotation": -88.6, "width": 56, "height": 24 }
+		},
+		"cup": {
+			"cup": { "x": -17.46, "y": -1.18, "rotation": -90, "width": 60, "height": 69 }
+		},
+		"light": {
+			"light": { "x": 3.46, "y": 0.91, "rotation": -63.78, "width": 88, "height": 88 }
+		}
+	}
+},
+"animations": {
+	"icon 3": {
+		"slots": {
+			"TOP": {
+				"attachment": [
+					{ "time": 0, "name": "TOP" }
+				]
+			},
+			"cup": {
+				"attachment": [
+					{ "time": 0, "name": "cup" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "time": 0, "name": "light" }
+				]
+			}
+		},
+		"bones": {
+			"bone42": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.8, "x": 1.042, "y": 1.042 },
+					{ "time": 1.8667, "x": 1, "y": 1 }
+				]
+			},
+			"bone44": {
+				"rotate": [
+					{ "time": 0, "angle": -3.19 },
+					{ "time": 0.7, "angle": -137.61 },
+					{ "time": 1.2, "angle": 114.83 },
+					{ "time": 1.8667, "angle": -3.19 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.25, "y": 0 },
+					{ "time": 1.0667, "x": 4.62, "y": 0 },
+					{ "time": 1.1667, "x": 3, "y": 0 },
+					{ "time": 1.5, "x": 3.51, "y": 0 },
+					{ "time": 1.8667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.742, "y": 0.742 },
+					{ "time": 0.9, "x": 1.204, "y": 1.204 },
+					{ "time": 1.8667, "x": 0.742, "y": 0.742 }
+				]
+			}
+		}
+	}
+}
+}

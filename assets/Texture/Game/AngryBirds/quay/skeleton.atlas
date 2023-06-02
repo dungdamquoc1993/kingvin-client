@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DomSang
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Dung
+  rotate: false
+  xy: 2, 34
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+NenNut
+  rotate: false
+  xy: 2, 89
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: -1
+Quay
+  rotate: false
+  xy: 725, 192
+  size: 103, 51
+  orig: 103, 51
+  offset: 0, 0
+  index: -1
+RaraDung
+  rotate: false
+  xy: 169, 106
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+RaraQuay
+  rotate: false
+  xy: 308, 106
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Scan
+  rotate: false
+  xy: 447, 106
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+ScanDung
+  rotate: false
+  xy: 586, 106
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

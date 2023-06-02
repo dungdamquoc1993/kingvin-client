@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "2d183e36-9a89-427f-8fd9-c9dec32fbc9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "TITLE LICH SU GIAO DICH": {
+      "ver": "1.0.4",
+      "uuid": "58db9d32-a043-4da7-a7b0-5c02f897be3c",
+      "rawTextureUuid": "2d183e36-9a89-427f-8fd9-c9dec32fbc9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 114,
+      "rawWidth": 307,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

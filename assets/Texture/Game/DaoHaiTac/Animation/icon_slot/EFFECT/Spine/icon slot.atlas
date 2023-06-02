@@ -1,0 +1,118 @@
+
+icon slot.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 1170, 40
+  size: 306, 296
+  orig: 306, 296
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 886, 326
+  size: 282, 309
+  orig: 282, 309
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 2
+  size: 298, 310
+  orig: 298, 310
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1230, 640
+  size: 307, 304
+  orig: 307, 304
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1170, 338
+  size: 307, 300
+  orig: 307, 300
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 302, 6
+  size: 287, 306
+  orig: 287, 306
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 1539, 646
+  size: 298, 310
+  orig: 298, 310
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 303, 315
+  size: 292, 314
+  orig: 292, 314
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 1478, 37
+  size: 298, 302
+  orig: 298, 302
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 2, 314
+  size: 315, 299
+  orig: 315, 299
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 597, 317
+  size: 287, 313
+  orig: 287, 313
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 609, 637
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1479, 337
+  size: 304, 301
+  orig: 304, 301
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 918, 643
+  size: 301, 310
+  orig: 301, 310
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 631
+  size: 301, 313
+  orig: 301, 313
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 305, 632
+  size: 302, 312
+  orig: 302, 312
+  offset: 0, 0
+  index: -1

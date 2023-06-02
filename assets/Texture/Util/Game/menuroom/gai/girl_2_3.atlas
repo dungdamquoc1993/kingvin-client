@@ -1,0 +1,48 @@
+
+girl_2_3.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 8
+  rotate: false
+  xy: 204, 109
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1, 1
+  size: 139, 279
+  orig: 139, 279
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 142, 1
+  size: 60, 168
+  orig: 60, 168
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 204, 59
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 142, 171
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 204, 1
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1

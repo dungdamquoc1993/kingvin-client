@@ -1,0 +1,34 @@
+
+iteam3cay.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 520
+  rotate: false
+  xy: 209, 141
+  size: 146, 67
+  orig: 146, 67
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 209, 42
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 357, 131
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1

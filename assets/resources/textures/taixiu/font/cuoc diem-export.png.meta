@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "ac62f6f1-91a9-4ebd-b787-1ea0639c0a6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "cuoc diem-export": {
+      "ver": "1.0.4",
+      "uuid": "42535770-1fcd-4c30-8dcd-f30a5e8c9d9e",
+      "rawTextureUuid": "ac62f6f1-91a9-4ebd-b787-1ea0639c0a6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -20.5,
+      "offsetY": 5.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 117,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

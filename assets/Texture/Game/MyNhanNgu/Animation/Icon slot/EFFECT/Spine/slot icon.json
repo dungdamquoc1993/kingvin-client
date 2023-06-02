@@ -1,0 +1,178 @@
+{
+"skeleton": { "hash": "vcy6I/6cGe9Q2mOxVKjxXA1j/O0", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 72.2, "rotation": 83.66, "x": 1.45, "y": -5.02 }
+],
+"slots": [
+	{ "name": "Layer 17", "bone": "bone" },
+	{ "name": "Layer 18", "bone": "bone" },
+	{ "name": "Layer 19", "bone": "bone" },
+	{ "name": "Layer 20", "bone": "bone" },
+	{ "name": "Layer 21", "bone": "bone" },
+	{ "name": "Layer 22", "bone": "bone" },
+	{ "name": "Layer 23", "bone": "bone" },
+	{ "name": "Layer 24", "bone": "bone" },
+	{ "name": "Layer 25", "bone": "bone" },
+	{ "name": "Layer 26", "bone": "bone" },
+	{ "name": "Layer 27", "bone": "bone" },
+	{ "name": "Layer 28", "bone": "bone" },
+	{ "name": "Layer 29", "bone": "bone" },
+	{ "name": "Layer 30", "bone": "bone" },
+	{ "name": "Layer 31", "bone": "bone" },
+	{ "name": "Layer 32", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"Layer 17": {
+			"Layer 17": { "x": 3.75, "y": 3.09, "rotation": -83.66, "width": 253, "height": 250 }
+		},
+		"Layer 18": {
+			"Layer 18": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 250, "height": 257 }
+		},
+		"Layer 19": {
+			"Layer 19": { "x": 3.7, "y": 3.59, "rotation": -83.66, "width": 250, "height": 260 }
+		},
+		"Layer 20": {
+			"Layer 20": { "x": 3.25, "y": 3.04, "rotation": -83.66, "width": 251, "height": 259 }
+		},
+		"Layer 21": {
+			"Layer 21": { "x": 3.25, "y": 3.04, "rotation": -83.66, "width": 255, "height": 247 }
+		},
+		"Layer 22": {
+			"Layer 22": { "x": 3.25, "y": 3.04, "rotation": -83.66, "width": 235, "height": 257 }
+		},
+		"Layer 23": {
+			"Layer 23": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 248, "height": 257 }
+		},
+		"Layer 24": {
+			"Layer 24": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 256, "height": 253 }
+		},
+		"Layer 25": {
+			"Layer 25": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 256, "height": 249 }
+		},
+		"Layer 26": {
+			"Layer 26": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 238, "height": 255 }
+		},
+		"Layer 27": {
+			"Layer 27": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 248, "height": 257 }
+		},
+		"Layer 28": {
+			"Layer 28": { "x": 3.25, "y": 3.04, "rotation": -83.66, "width": 243, "height": 261 }
+		},
+		"Layer 29": {
+			"Layer 29": { "x": 3.2, "y": 3.53, "rotation": -83.66, "width": 248, "height": 251 }
+		},
+		"Layer 30": {
+			"Layer 30": { "x": 3.7, "y": 3.59, "rotation": -83.66, "width": 262, "height": 248 }
+		},
+		"Layer 31": {
+			"Layer 31": { "x": 3.7, "y": 3.59, "rotation": -83.66, "width": 238, "height": 260 }
+		},
+		"Layer 32": {
+			"Layer 32": { "x": 3.7, "y": 3.59, "rotation": -83.66, "width": 256, "height": 256 }
+		}
+	}
+},
+"animations": {
+	"effect phat sang": {
+		"slots": {
+			"Layer 17": {
+				"attachment": [
+					{ "time": 0, "name": "Layer 17" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"Layer 18": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Layer 18" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"Layer 19": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Layer 19" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Layer 20": {
+				"attachment": [
+					{ "time": 0.2, "name": "Layer 20" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"Layer 21": {
+				"attachment": [
+					{ "time": 0.2667, "name": "Layer 21" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"Layer 22": {
+				"attachment": [
+					{ "time": 0.3333, "name": "Layer 22" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"Layer 23": {
+				"attachment": [
+					{ "time": 0.4, "name": "Layer 23" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Layer 24": {
+				"attachment": [
+					{ "time": 0.4667, "name": "Layer 24" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"Layer 25": {
+				"attachment": [
+					{ "time": 0.5333, "name": "Layer 25" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"Layer 26": {
+				"attachment": [
+					{ "time": 0.6, "name": "Layer 26" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"Layer 27": {
+				"attachment": [
+					{ "time": 0.6667, "name": "Layer 27" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"Layer 28": {
+				"attachment": [
+					{ "time": 0.7333, "name": "Layer 28" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"Layer 29": {
+				"attachment": [
+					{ "time": 0.8, "name": "Layer 29" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"Layer 30": {
+				"attachment": [
+					{ "time": 0.8667, "name": "Layer 30" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"Layer 31": {
+				"attachment": [
+					{ "time": 0.9333, "name": "Layer 31" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"Layer 32": {
+				"attachment": [
+					{ "time": 1, "name": "Layer 32" }
+				]
+			}
+		}
+	}
+}
+}

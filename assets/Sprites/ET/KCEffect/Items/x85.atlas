@@ -1,0 +1,55 @@
+
+x85.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cha
+  rotate: false
+  xy: 2, 31
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: false
+  xy: 117, 56
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 163, 88
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+matnham
+  rotate: false
+  xy: 2, 2
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+mom
+  rotate: false
+  xy: 117, 89
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 204, 89
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 52, 5
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1

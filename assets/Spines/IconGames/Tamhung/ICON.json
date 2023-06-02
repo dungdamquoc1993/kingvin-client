@@ -1,0 +1,173 @@
+{
+"skeleton": {
+	"hash": "9ZsdH+aira+qOd+KAO1gUMJUni8",
+	"spine": "3.8.75",
+	"x": -90.98,
+	"y": -171.5,
+	"width": 182,
+	"height": 343,
+	"images": "C:\\Users\\KENZY\\Desktop\\ASSET\\Game\\Tamhung\\Images",
+	"audio": "C:\\Users\\KENZY\\Desktop\\ASSET\\Game\\Tamhung"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 47.15, "rotation": 101.71, "x": -19.13, "y": -22.1 },
+	{ "name": "bone2", "parent": "root", "length": 47.47, "rotation": 56.12, "x": -11.24, "y": -74.46 },
+	{ "name": "bone3", "parent": "root", "length": 139.19, "rotation": 108.94, "x": -72.7, "y": 163.19 },
+	{ "name": "bone4", "parent": "root", "length": 103.34, "rotation": 90, "x": 1.14, "y": 38.53 }
+],
+"slots": [
+	{ "name": "A", "bone": "bone3", "attachment": "A" },
+	{ "name": "BG2", "bone": "bone3", "attachment": "BG" },
+	{ "name": "BG", "bone": "root" },
+	{ "name": "QUANVU", "bone": "bone4", "attachment": "QUANVU" },
+	{ "name": "TRUONG2", "bone": "bone2", "attachment": "TRUONG" },
+	{ "name": "TRUONG", "bone": "root" },
+	{ "name": "QUANVAN2", "bone": "bone", "attachment": "QUANVAN" },
+	{ "name": "QUANVAN", "bone": "root" }
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone2": {
+				"scale": [
+					{
+						"x": 1.109,
+						"y": 1.109,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ],
+						"time": 0.0
+					},
+					{
+						"time": 0.1667,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.109,
+						"y": 1.109,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.5,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.109,
+						"y": 1.109,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 1.6667,
+						"x": 1.032,
+						"y": 1.032,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{ "time": 2.6667, "x": 1.109, "y": 1.109 }
+				]
+			},
+			"bone4": {
+				"translate": [
+					{
+						"y": -5.76,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ],
+						"time": 0.0
+					},
+					{
+						"time": 1.3333,
+						"y": 4.5,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{ "time": 2.6667, "y": -5.76 }
+				],
+				"scale": [
+					{
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ],
+						"time": 0.0
+					},
+					{
+						"time": 1.3333,
+						"x": 0.983,
+						"y": 1.038,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{ "time": 2.6667 }
+				],
+				"shear": [
+					{
+						"x": 0.21,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ],
+						"time": 0.0
+					},
+					{
+						"time": 1.3333,
+						"x": -0.6,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{ "time": 2.6667, "x": 0.21 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ],
+						"time": 0.0
+					},
+					{
+						"time": 0.1667,
+						"x": 1.121,
+						"y": 1.121,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.3333,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.121,
+						"y": 1.121,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 0.6667,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{
+						"time": 1.6,
+						"x": 1.076,
+						"y": 1.076,
+						"curve": [ 0.25, 0.0, 0.75, 0.0 ]
+					},
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+},
+"skins": {
+	"default": {
+		"A": {
+			"A": {
+				"type": "clipping",
+				"end": "A",
+				"vertexCount": 18,
+				"vertices": [ 0.5, -183, -11.38, -189.1, -31.99, -191.02, -408.34, -62.4, -422.07, -41.77, -422.11, -18.09, -367.86, 133.47, -358.51, 151.2, -344.33, 158.92, -325.51, 158.76, -314.54, 157.09, 44.95, 30.65, 62.91, 17.49, 69.44, -2.9, 71.12, -14.36, 104.52, -38.56, 75.87, -163.53, 18.27, -193.27 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"TRUONG2": {
+			"TRUONG": { "x": 13.98, "y": -1.85, "scaleX": 0.8, "scaleY": 0.8, "rotation": -56.12, "width": 172, "height": 81 }
+		},
+		"BG2": {
+			"BG": { "x": -177.96, "y": -15.81, "rotation": -108.94, "width": 182, "height": 343 }
+		},
+		"QUANVU": {
+			"QUANVU": { "x": -32.38, "y": -0.3, "scaleX": 0.33, "scaleY": 0.6, "rotation": -90, "width": 484, "height": 530 }
+		},
+		"QUANVAN2": {
+			"QUANVAN": { "x": 5.72, "y": -20.29, "scaleX": 0.8, "scaleY": 0.8, "rotation": -101.71, "width": 221, "height": 80 }
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+SayanIcon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 539, 218
+  size: 287, 390
+  orig: 287, 390
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 213
+  size: 292, 535
+  orig: 292, 535
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 928, 116
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 2, 56
+  size: 155, 337
+  orig: 155, 337
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 341, 67
+  size: 144, 336
+  orig: 144, 336
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 853, 26
+  size: 190, 73
+  orig: 190, 73
+  offset: 0, 0
+  index: -1
+sa
+  rotate: true
+  xy: 931, 215
+  size: 290, 68
+  orig: 290, 68
+  offset: 0, 0
+  index: -1
+toc 1
+  rotate: false
+  xy: 928, 39
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 83, 11
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+toc3
+  rotate: true
+  xy: 2, 2
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+toc4
+  rotate: false
+  xy: 414, 22
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+toc5
+  rotate: true
+  xy: 341, 3
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+toc6
+  rotate: false
+  xy: 679, 55
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+anim_hoplacxingau.png
+size: 499,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-chen new
+  rotate: true
+  xy: 1, 13
+  size: 222, 285
+  orig: 222, 285
+  offset: 0, 0
+  index: -1
+-e-dia new
+  rotate: true
+  xy: 288, 1
+  size: 234, 210
+  orig: 234, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "89158435-c13f-4f0a-b74e-db4e26950b57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "qua cau sang 10": {
+      "ver": "1.0.4",
+      "uuid": "f692e43a-c1eb-4c5f-a96e-66959bf77bb2",
+      "rawTextureUuid": "89158435-c13f-4f0a-b74e-db4e26950b57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 232,
+      "rawWidth": 233,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

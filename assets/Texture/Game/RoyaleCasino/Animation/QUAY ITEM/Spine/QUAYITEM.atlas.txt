@@ -1,0 +1,167 @@
+
+QUAYITEM.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00005
+  rotate: true
+  xy: 299, 2
+  size: 144, 153
+  orig: 146, 155
+  offset: 1, 1
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 1375, 69
+  size: 153, 163
+  orig: 155, 165
+  offset: 1, 1
+  index: -1
+Comp 1_00007
+  rotate: true
+  xy: 903, 3
+  size: 167, 179
+  orig: 169, 181
+  offset: 1, 1
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 1859, 825
+  size: 182, 196
+  orig: 184, 198
+  offset: 1, 1
+  index: -1
+Comp 1_00009
+  rotate: true
+  xy: 1164, 26
+  size: 206, 209
+  orig: 208, 211
+  offset: 1, 1
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 1169, 234
+  size: 231, 226
+  orig: 233, 228
+  offset: 1, 1
+  index: -1
+Comp 1_00011
+  rotate: true
+  xy: 1677, 473
+  size: 252, 243
+  orig: 254, 245
+  offset: 1, 1
+  index: -1
+Comp 1_00012
+  rotate: true
+  xy: 903, 172
+  size: 268, 259
+  orig: 270, 261
+  offset: 1, 1
+  index: -1
+Comp 1_00013
+  rotate: true
+  xy: 896, 442
+  size: 283, 271
+  orig: 285, 273
+  offset: 1, 1
+  index: -1
+Comp 1_00014
+  rotate: true
+  xy: 612, 427
+  size: 295, 282
+  orig: 297, 284
+  offset: 1, 1
+  index: -1
+Comp 1_00015
+  rotate: false
+  xy: 307, 148
+  size: 296, 284
+  orig: 298, 286
+  offset: 1, 1
+  index: -1
+Comp 1_00016
+  rotate: false
+  xy: 313, 434
+  size: 297, 288
+  orig: 299, 290
+  offset: 1, 1
+  index: -1
+Comp 1_00017
+  rotate: false
+  xy: 605, 132
+  size: 296, 293
+  orig: 298, 295
+  offset: 1, 1
+  index: -1
+Comp 1_00018
+  rotate: true
+  xy: 1558, 727
+  size: 294, 299
+  orig: 296, 301
+  offset: 1, 1
+  index: -1
+Comp 1_00019
+  rotate: true
+  xy: 1252, 729
+  size: 292, 304
+  orig: 294, 306
+  offset: 1, 1
+  index: -1
+Comp 1_00020
+  rotate: true
+  xy: 942, 728
+  size: 293, 308
+  orig: 295, 310
+  offset: 1, 1
+  index: -1
+Comp 1_00021
+  rotate: true
+  xy: 629, 727
+  size: 294, 311
+  orig: 296, 313
+  offset: 1, 1
+  index: -1
+Comp 1_00022
+  rotate: false
+  xy: 2, 84
+  size: 295, 312
+  orig: 297, 314
+  offset: 1, 1
+  index: -1
+Comp 1_00023
+  rotate: true
+  xy: 313, 724
+  size: 297, 314
+  orig: 299, 316
+  offset: 1, 1
+  index: -1
+Comp 1_00024
+  rotate: false
+  xy: 2, 398
+  size: 303, 313
+  orig: 305, 315
+  offset: 1, 1
+  index: -1
+Comp 1_00025
+  rotate: false
+  xy: 2, 713
+  size: 309, 308
+  orig: 311, 310
+  offset: 1, 1
+  index: -1
+Comp 1_00026
+  rotate: false
+  xy: 1418, 476
+  size: 257, 249
+  orig: 259, 251
+  offset: 1, 1
+  index: -1
+Comp 1_00027
+  rotate: true
+  xy: 1169, 462
+  size: 264, 247
+  orig: 266, 249
+  offset: 1, 1
+  index: -1

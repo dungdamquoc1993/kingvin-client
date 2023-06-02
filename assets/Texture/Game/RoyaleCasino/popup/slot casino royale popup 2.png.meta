@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "3939d51c-05b5-45c5-92b4-d6bc2333861e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "slot casino royale popup 2": {
+      "ver": "1.0.4",
+      "uuid": "7dacc409-f349-4f34-a63c-6117fccaf0cb",
+      "rawTextureUuid": "3939d51c-05b5-45c5-92b4-d6bc2333861e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,412 @@
+
+my nhan ngu bonus game.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1272
+  size: 1333, 749
+  orig: 1335, 751
+  offset: 1, 1
+  index: -1
+anh sang
+  rotate: false
+  xy: 1941, 981
+  size: 96, 94
+  orig: 105, 106
+  offset: 4, 7
+  index: -1
+anh sang 10
+  rotate: false
+  xy: 1640, 863
+  size: 299, 293
+  orig: 313, 313
+  offset: 13, 9
+  index: -1
+anh sang 11
+  rotate: false
+  xy: 1337, 1120
+  size: 301, 300
+  orig: 324, 325
+  offset: 10, 11
+  index: -1
+anh sang 12
+  rotate: true
+  xy: 1337, 1720
+  size: 301, 319
+  orig: 324, 335
+  offset: 10, 2
+  index: -1
+anh sang 13
+  rotate: false
+  xy: 1648, 1158
+  size: 304, 301
+  orig: 315, 366
+  offset: 10, 51
+  index: -1
+anh sang 14
+  rotate: false
+  xy: 2, 5
+  size: 272, 282
+  orig: 298, 299
+  offset: 15, 6
+  index: -1
+anh sang 15
+  rotate: false
+  xy: 2, 863
+  size: 258, 255
+  orig: 289, 284
+  offset: 17, 16
+  index: -1
+anh sang 2
+  rotate: false
+  xy: 1431, 110
+  size: 195, 211
+  orig: 219, 225
+  offset: 12, 2
+  index: -1
+anh sang 3
+  rotate: false
+  xy: 1337, 1422
+  size: 309, 296
+  orig: 324, 325
+  offset: 12, 14
+  index: -1
+anh sang 4
+  rotate: false
+  xy: 2, 289
+  size: 277, 284
+  orig: 298, 299
+  offset: 11, 5
+  index: -1
+anh sang 5
+  rotate: false
+  xy: 276, 9
+  size: 278, 278
+  orig: 295, 292
+  offset: 6, 4
+  index: -1
+anh sang 6
+  rotate: false
+  xy: 281, 295
+  size: 271, 278
+  orig: 283, 289
+  offset: 10, 10
+  index: -1
+anh sang 7
+  rotate: true
+  xy: 1658, 1461
+  size: 279, 310
+  orig: 291, 321
+  offset: 1, 7
+  index: -1
+anh sang 8
+  rotate: false
+  xy: 1658, 1742
+  size: 313, 279
+  orig: 324, 299
+  offset: 1, 10
+  index: -1
+anh sang 9
+  rotate: false
+  xy: 2, 575
+  size: 285, 286
+  orig: 306, 304
+  offset: 11, 11
+  index: -1
+ban tay phai
+  rotate: false
+  xy: 1973, 1900
+  size: 59, 49
+  orig: 62, 52
+  offset: 2, 1
+  index: -1
+bay tay phai
+  rotate: false
+  xy: 1954, 1077
+  size: 80, 109
+  orig: 82, 111
+  offset: 1, 1
+  index: -1
+canh tay phai
+  rotate: false
+  xy: 1973, 1951
+  size: 73, 70
+  orig: 75, 73
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 2, 1120
+  size: 166, 150
+  orig: 168, 152
+  offset: 1, 1
+  index: -1
+duoi ca
+  rotate: false
+  xy: 289, 608
+  size: 107, 253
+  orig: 107, 253
+  offset: 0, 0
+  index: -1
+duoi ca 2
+  rotate: false
+  xy: 339, 1127
+  size: 259, 143
+  orig: 259, 143
+  offset: 0, 0
+  index: -1
+hoa toc
+  rotate: true
+  xy: 793, 38
+  size: 109, 108
+  orig: 112, 110
+  offset: 2, 1
+  index: -1
+mat tien ca
+  rotate: true
+  xy: 1954, 1326
+  size: 133, 89
+  orig: 136, 91
+  offset: 2, 1
+  index: -1
+mat tien ca 2
+  rotate: true
+  xy: 1954, 1188
+  size: 136, 83
+  orig: 139, 86
+  offset: 1, 2
+  index: -1
+qua cau sang
+  rotate: true
+  xy: 556, 18
+  size: 128, 126
+  orig: 132, 128
+  offset: 1, 1
+  index: -1
+qua cau sang 10
+  rotate: true
+  xy: 554, 380
+  size: 233, 232
+  orig: 235, 234
+  offset: 1, 1
+  index: -1
+qua cau sang 11
+  rotate: true
+  xy: 689, 885
+  size: 233, 231
+  orig: 236, 235
+  offset: 1, 2
+  index: -1
+qua cau sang 12
+  rotate: true
+  xy: 631, 628
+  size: 233, 232
+  orig: 235, 236
+  offset: 1, 2
+  index: -1
+qua cau sang 13
+  rotate: true
+  xy: 1337, 887
+  size: 231, 233
+  orig: 235, 235
+  offset: 2, 1
+  index: -1
+qua cau sang 14
+  rotate: false
+  xy: 865, 452
+  size: 232, 230
+  orig: 236, 234
+  offset: 3, 2
+  index: -1
+qua cau sang 15
+  rotate: false
+  xy: 398, 615
+  size: 231, 246
+  orig: 234, 249
+  offset: 2, 2
+  index: -1
+qua cau sang 16
+  rotate: false
+  xy: 1325, 653
+  size: 232, 232
+  orig: 235, 234
+  offset: 2, 1
+  index: -1
+qua cau sang 17
+  rotate: false
+  xy: 556, 148
+  size: 229, 230
+  orig: 237, 234
+  offset: 4, 2
+  index: -1
+qua cau sang 18
+  rotate: true
+  xy: 922, 911
+  size: 227, 228
+  orig: 234, 233
+  offset: 4, 2
+  index: -1
+qua cau sang 19
+  rotate: true
+  xy: 922, 684
+  size: 225, 226
+  orig: 231, 229
+  offset: 3, 1
+  index: -1
+qua cau sang 2
+  rotate: false
+  xy: 1150, 539
+  size: 165, 165
+  orig: 167, 167
+  offset: 1, 1
+  index: -1
+qua cau sang 20
+  rotate: false
+  xy: 1459, 441
+  size: 210, 210
+  orig: 215, 213
+  offset: 3, 1
+  index: -1
+qua cau sang 21
+  rotate: false
+  xy: 1767, 476
+  size: 192, 186
+  orig: 197, 189
+  offset: 3, 1
+  index: -1
+qua cau sang 22
+  rotate: false
+  xy: 170, 1124
+  size: 167, 146
+  orig: 171, 150
+  offset: 2, 2
+  index: -1
+qua cau sang 3
+  rotate: true
+  xy: 1152, 1086
+  size: 184, 183
+  orig: 187, 185
+  offset: 1, 1
+  index: -1
+qua cau sang 4
+  rotate: false
+  xy: 1767, 664
+  size: 198, 197
+  orig: 200, 199
+  offset: 1, 1
+  index: -1
+qua cau sang 5
+  rotate: true
+  xy: 1559, 654
+  size: 207, 206
+  orig: 209, 209
+  offset: 1, 2
+  index: -1
+qua cau sang 6
+  rotate: true
+  xy: 1244, 323
+  size: 214, 213
+  orig: 216, 215
+  offset: 1, 1
+  index: -1
+qua cau sang 7
+  rotate: true
+  xy: 1018, 2
+  size: 221, 220
+  orig: 223, 222
+  offset: 1, 1
+  index: -1
+qua cau sang 8
+  rotate: true
+  xy: 1018, 225
+  size: 225, 224
+  orig: 227, 226
+  offset: 1, 1
+  index: -1
+qua cau sang 9
+  rotate: false
+  xy: 787, 149
+  size: 229, 229
+  orig: 231, 231
+  offset: 1, 1
+  index: -1
+rong bien
+  rotate: true
+  xy: 807, 1139
+  size: 131, 108
+  orig: 134, 110
+  offset: 1, 1
+  index: -1
+rong bien 2
+  rotate: true
+  xy: 684, 20
+  size: 126, 107
+  orig: 130, 110
+  offset: 2, 2
+  index: -1
+ruong chau bau
+  rotate: true
+  xy: 262, 864
+  size: 254, 225
+  orig: 262, 232
+  offset: 4, 4
+  index: -1
+than nguoi
+  rotate: true
+  xy: 489, 879
+  size: 239, 198
+  orig: 242, 201
+  offset: 2, 1
+  index: -1
+toc
+  rotate: true
+  xy: 1150, 706
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1
+toc 2
+  rotate: true
+  xy: 1152, 860
+  size: 224, 171
+  orig: 226, 173
+  offset: 1, 1
+  index: -1
+toc 3
+  rotate: false
+  xy: 600, 1137
+  size: 205, 133
+  orig: 205, 133
+  offset: 0, 0
+  index: -1
+toc 4
+  rotate: false
+  xy: 917, 1140
+  size: 233, 130
+  orig: 233, 130
+  offset: 0, 0
+  index: -1
+trang suc
+  rotate: true
+  xy: 1973, 1856
+  size: 42, 44
+  orig: 44, 46
+  offset: 1, 1
+  index: -1
+veu
+  rotate: true
+  xy: 1970, 1634
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+vo so
+  rotate: true
+  xy: 1240, 5
+  size: 218, 189
+  orig: 226, 198
+  offset: 4, 5
+  index: -1

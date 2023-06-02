@@ -1,0 +1,34 @@
+
+itslotthanhlau.png
+size: 942,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 401, 89
+  size: 196, 357
+  orig: 198, 359
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 760, 60
+  size: 180, 225
+  orig: 188, 233
+  offset: 4, 4
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 283, 397
+  orig: 295, 413
+  offset: 6, 8
+  index: -1
+txt
+  rotate: false
+  xy: 401, 8
+  size: 257, 79
+  orig: 263, 82
+  offset: 3, 2
+  index: -1

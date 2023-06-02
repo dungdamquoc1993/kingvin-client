@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "5f2b2300-3025-4bff-acce-d599d26666bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "bonus game my nhan ngu 3": {
+      "ver": "1.0.4",
+      "uuid": "9f434634-7f9c-4605-872d-3a5ce8229657",
+      "rawTextureUuid": "5f2b2300-3025-4bff-acce-d599d26666bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1333,
+      "height": 750,
+      "rawWidth": 1333,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

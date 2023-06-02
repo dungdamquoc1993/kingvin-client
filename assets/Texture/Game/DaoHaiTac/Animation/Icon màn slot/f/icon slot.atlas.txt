@@ -1,0 +1,300 @@
+
+icon slot.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus
+  rotate: false
+  xy: 498, 48
+  size: 129, 38
+  orig: 129, 40
+  offset: 0, 1
+  index: -1
+JackPot
+  rotate: false
+  xy: 629, 7
+  size: 150, 87
+  orig: 151, 87
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 1209, 716
+  size: 305, 295
+  orig: 306, 296
+  offset: 0, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 1506, 740
+  size: 281, 309
+  orig: 282, 309
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 608, 713
+  size: 297, 308
+  orig: 298, 310
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: true
+  xy: 309, 88
+  size: 305, 303
+  orig: 307, 304
+  offset: 1, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 603, 406
+  size: 305, 300
+  orig: 307, 300
+  offset: 1, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 1221, 427
+  size: 287, 306
+  orig: 287, 306
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 614, 96
+  size: 297, 308
+  orig: 298, 310
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: true
+  xy: 905, 420
+  size: 291, 314
+  orig: 292, 314
+  offset: 1, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 1202, 116
+  size: 297, 302
+  orig: 298, 302
+  offset: 1, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 304, 395
+  size: 313, 297
+  orig: 315, 299
+  offset: 1, 1
+  index: -1
+Layer 20
+  rotate: false
+  xy: 913, 105
+  size: 287, 313
+  orig: 287, 313
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 2, 88
+  size: 305, 305
+  orig: 307, 307
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: true
+  xy: 907, 718
+  size: 303, 300
+  orig: 304, 301
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 306, 713
+  size: 300, 308
+  orig: 301, 310
+  offset: 0, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 395
+  size: 300, 313
+  orig: 301, 313
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 2, 710
+  size: 302, 311
+  orig: 302, 312
+  offset: 0, 1
+  index: -1
+SPIN copy 2
+  rotate: false
+  xy: 314, 36
+  size: 120, 50
+  orig: 121, 52
+  offset: 1, 1
+  index: -1
+Wild
+  rotate: false
+  xy: 781, 7
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+Wild 2
+  rotate: false
+  xy: 314, 5
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1
+anh sang dao
+  rotate: false
+  xy: 1676, 66
+  size: 50, 51
+  orig: 51, 51
+  offset: 1, 0
+  index: -1
+anh sang moc cau
+  rotate: false
+  xy: 1676, 66
+  size: 50, 51
+  orig: 51, 51
+  offset: 1, 0
+  index: -1
+anh sang dong xu
+  rotate: true
+  xy: 233, 4
+  size: 82, 79
+  orig: 90, 82
+  offset: 3, 2
+  index: -1
+anh sang icon ruong
+  rotate: false
+  xy: 1609, 119
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+anh sang icon ruong 2
+  rotate: false
+  xy: 1609, 119
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+banh xe quay
+  rotate: false
+  xy: 1501, 216
+  size: 209, 209
+  orig: 214, 209
+  offset: 1, 0
+  index: -1
+blade
+  rotate: true
+  xy: 952, 4
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+blade 2
+  rotate: true
+  xy: 1075, 4
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+co hai tac
+  rotate: true
+  xy: 1529, 600
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1
+dai bac
+  rotate: false
+  xy: 118, 15
+  size: 113, 71
+  orig: 115, 73
+  offset: 1, 1
+  index: -1
+dai bac 2
+  rotate: false
+  xy: 2, 11
+  size: 114, 75
+  orig: 117, 75
+  offset: 1, 0
+  index: -1
+dao
+  rotate: true
+  xy: 1445, 9
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+dong xu
+  rotate: false
+  xy: 1569, 12
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+icon ruong
+  rotate: true
+  xy: 893, 19
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+icon ruong 2
+  rotate: false
+  xy: 498, 4
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+moc cau
+  rotate: true
+  xy: 1529, 477
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+ong nhom
+  rotate: false
+  xy: 1318, 5
+  size: 125, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+ong nhom 2
+  rotate: false
+  xy: 550, 7
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+ruong vang
+  rotate: true
+  xy: 1198, 2
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+vet
+  rotate: true
+  xy: 436, 3
+  size: 83, 60
+  orig: 83, 61
+  offset: 0, 1
+  index: -1
+vet 2
+  rotate: false
+  xy: 1501, 119
+  size: 106, 95
+  orig: 106, 96
+  offset: 0, 0
+  index: -1

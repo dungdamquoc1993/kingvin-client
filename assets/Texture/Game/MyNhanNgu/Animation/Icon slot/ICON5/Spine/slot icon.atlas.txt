@@ -1,0 +1,34 @@
+
+slot icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mat sao bien
+  rotate: false
+  xy: 130, 89
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+mat sao bien 2
+  rotate: false
+  xy: 130, 51
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+mom sao bien
+  rotate: false
+  xy: 165, 100
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+sao bien
+  rotate: false
+  xy: 2, 2
+  size: 126, 124
+  orig: 126, 124
+  offset: 0, 0
+  index: -1

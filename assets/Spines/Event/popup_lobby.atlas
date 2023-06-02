@@ -1,0 +1,76 @@
+
+popup_lobby.png
+size: 227,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+52ad16bf043dcbbf5f981ade7e394f2543ce1dfd39f35-ILXJ3J_fw1200
+  rotate: true
+  xy: 2, 2
+  size: 79, 83
+  orig: 82, 86
+  offset: 2, 2
+  index: -1
+Group 521 copy
+  rotate: true
+  xy: 58, 124
+  size: 142, 60
+  orig: 145, 63
+  offset: 3, 3
+  index: -1
+Group 522 copy 2
+  rotate: false
+  xy: 156, 15
+  size: 69, 72
+  orig: 73, 74
+  offset: 3, 1
+  index: -1
+Group 522 copy 3
+  rotate: true
+  xy: 120, 89
+  size: 49, 52
+  orig: 53, 54
+  offset: 3, 1
+  index: -1
+Layer 775
+  rotate: true
+  xy: 120, 140
+  size: 126, 78
+  orig: 128, 80
+  offset: 1, 1
+  index: -1
+Layer 785
+  rotate: true
+  xy: 87, 4
+  size: 83, 67
+  orig: 85, 69
+  offset: 1, 1
+  index: -1
+Layer 786
+  rotate: false
+  xy: 93, 101
+  size: 7, 21
+  orig: 10, 24
+  offset: 2, 1
+  index: -1
+Layer 787
+  rotate: false
+  xy: 102, 107
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+coin
+  rotate: false
+  xy: 58, 89
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+khung
+  rotate: true
+  xy: 2, 83
+  size: 183, 54
+  orig: 185, 57
+  offset: 1, 1
+  index: -1

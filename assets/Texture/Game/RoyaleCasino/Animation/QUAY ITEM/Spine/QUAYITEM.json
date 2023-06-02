@@ -1,0 +1,249 @@
+{
+"skeleton": { "hash": "3fw5vSXe92XPYHhTL2Vp4n0pLIQ", "spine": "3.5.51", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 78.69, "rotation": 105.52 }
+],
+"slots": [
+	{ "name": "Comp 1_00005", "bone": "bone" },
+	{ "name": "Comp 1_00006", "bone": "bone" },
+	{ "name": "Comp 1_00007", "bone": "bone" },
+	{ "name": "Comp 1_00008", "bone": "bone" },
+	{ "name": "Comp 1_00009", "bone": "bone" },
+	{ "name": "Comp 1_00010", "bone": "bone" },
+	{ "name": "Comp 1_00011", "bone": "bone" },
+	{ "name": "Comp 1_00012", "bone": "bone" },
+	{ "name": "Comp 1_00013", "bone": "bone" },
+	{ "name": "Comp 1_00014", "bone": "bone" },
+	{ "name": "Comp 1_00015", "bone": "bone" },
+	{ "name": "Comp 1_00016", "bone": "bone" },
+	{ "name": "Comp 1_00017", "bone": "bone" },
+	{ "name": "Comp 1_00018", "bone": "bone" },
+	{ "name": "Comp 1_00019", "bone": "bone" },
+	{ "name": "Comp 1_00020", "bone": "bone" },
+	{ "name": "Comp 1_00021", "bone": "bone" },
+	{ "name": "Comp 1_00022", "bone": "bone" },
+	{ "name": "Comp 1_00023", "bone": "bone" },
+	{ "name": "Comp 1_00024", "bone": "bone" },
+	{ "name": "Comp 1_00025", "bone": "bone" },
+	{ "name": "Comp 1_00026", "bone": "bone" },
+	{ "name": "Comp 1_00027", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"Comp 1_00005": {
+			"Comp 1_00005": { "x": 17.07, "y": 71.63, "rotation": -105.52, "width": 146, "height": 155 }
+		},
+		"Comp 1_00006": {
+			"Comp 1_00006": { "x": 0.83, "y": 76.67, "rotation": -105.52, "width": 155, "height": 165 }
+		},
+		"Comp 1_00007": {
+			"Comp 1_00007": { "x": -15.55, "y": 81.22, "rotation": -105.52, "width": 169, "height": 181 }
+		},
+		"Comp 1_00008": {
+			"Comp 1_00008": { "x": -31.85, "y": 84.19, "rotation": -105.52, "width": 184, "height": 198 }
+		},
+		"Comp 1_00009": {
+			"Comp 1_00009": { "x": -45.07, "y": 79.56, "rotation": -105.52, "width": 208, "height": 211 }
+		},
+		"Comp 1_00010": {
+			"Comp 1_00010": { "x": -53.99, "y": 68.02, "rotation": -105.52, "width": 233, "height": 228 }
+		},
+		"Comp 1_00011": {
+			"Comp 1_00011": { "x": -60.54, "y": 53.76, "rotation": -105.52, "width": 254, "height": 245 }
+		},
+		"Comp 1_00012": {
+			"Comp 1_00012": { "x": -66.06, "y": 37.64, "rotation": -105.52, "width": 270, "height": 261 }
+		},
+		"Comp 1_00013": {
+			"Comp 1_00013": { "x": -70.74, "y": 20.78, "rotation": -105.52, "width": 285, "height": 273 }
+		},
+		"Comp 1_00014": {
+			"Comp 1_00014": { "x": -75.77, "y": 4.54, "rotation": -105.52, "width": 297, "height": 284 }
+		},
+		"Comp 1_00015": {
+			"Comp 1_00015": { "x": -79.76, "y": -13.56, "rotation": -105.52, "width": 298, "height": 286 }
+		},
+		"Comp 1_00016": {
+			"Comp 1_00016": { "x": -80.32, "y": -30.52, "rotation": -105.52, "width": 299, "height": 290 }
+		},
+		"Comp 1_00017": {
+			"Comp 1_00017": { "x": -74.25, "y": -44.15, "rotation": -105.52, "width": 298, "height": 295 }
+		},
+		"Comp 1_00018": {
+			"Comp 1_00018": { "x": -63.59, "y": -54.37, "rotation": -105.52, "width": 296, "height": 301 }
+		},
+		"Comp 1_00019": {
+			"Comp 1_00019": { "x": -49.73, "y": -62.37, "rotation": -105.52, "width": 294, "height": 306 }
+		},
+		"Comp 1_00020": {
+			"Comp 1_00020": { "x": -32.79, "y": -68.64, "rotation": -105.52, "width": 295, "height": 310 }
+		},
+		"Comp 1_00021": {
+			"Comp 1_00021": { "x": -16.06, "y": -73.8, "rotation": -105.52, "width": 296, "height": 313 }
+		},
+		"Comp 1_00022": {
+			"Comp 1_00022": { "x": 1.9, "y": -78.27, "rotation": -105.52, "width": 297, "height": 314 }
+		},
+		"Comp 1_00023": {
+			"Comp 1_00023": { "x": 18.81, "y": -80.9, "rotation": -105.52, "width": 299, "height": 316 }
+		},
+		"Comp 1_00024": {
+			"Comp 1_00024": { "x": 33.69, "y": -77.76, "rotation": -105.52, "width": 305, "height": 315 }
+		},
+		"Comp 1_00025": {
+			"Comp 1_00025": { "x": 45.79, "y": -69.71, "rotation": -105.52, "width": 311, "height": 310 }
+		},
+		"Comp 1_00026": {
+			"Comp 1_00026": { "x": 54.84, "y": -57.69, "rotation": -105.52, "width": 259, "height": 251 }
+		},
+		"Comp 1_00027": {
+			"Comp 1_00027": { "x": 62.57, "y": -44.79, "rotation": -105.52, "width": 266, "height": 249 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Comp 1_00005": {
+				"attachment": [
+					{ "time": 0, "name": "Comp 1_00005" },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"Comp 1_00006": {
+				"attachment": [
+					{ "time": 0.0333, "name": "Comp 1_00006" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"Comp 1_00007": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Comp 1_00007" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"Comp 1_00008": {
+				"attachment": [
+					{ "time": 0.1, "name": "Comp 1_00008" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"Comp 1_00009": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Comp 1_00009" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"Comp 1_00010": {
+				"attachment": [
+					{ "time": 0.1667, "name": "Comp 1_00010" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Comp 1_00011": {
+				"attachment": [
+					{ "time": 0.2, "name": "Comp 1_00011" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Comp 1_00012": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Comp 1_00012" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"Comp 1_00013": {
+				"attachment": [
+					{ "time": 0.2667, "name": "Comp 1_00013" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Comp 1_00014": {
+				"attachment": [
+					{ "time": 0.3, "name": "Comp 1_00014" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"Comp 1_00015": {
+				"attachment": [
+					{ "time": 0.3333, "name": "Comp 1_00015" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"Comp 1_00016": {
+				"attachment": [
+					{ "time": 0.3667, "name": "Comp 1_00016" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"Comp 1_00017": {
+				"attachment": [
+					{ "time": 0.4, "name": "Comp 1_00017" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"Comp 1_00018": {
+				"attachment": [
+					{ "time": 0.4333, "name": "Comp 1_00018" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Comp 1_00019": {
+				"attachment": [
+					{ "time": 0.4667, "name": "Comp 1_00019" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"Comp 1_00020": {
+				"attachment": [
+					{ "time": 0.5, "name": "Comp 1_00020" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"Comp 1_00021": {
+				"attachment": [
+					{ "time": 0.5333, "name": "Comp 1_00021" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"Comp 1_00022": {
+				"attachment": [
+					{ "time": 0.5667, "name": "Comp 1_00022" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"Comp 1_00023": {
+				"attachment": [
+					{ "time": 0.6, "name": "Comp 1_00023" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"Comp 1_00024": {
+				"attachment": [
+					{ "time": 0.6333, "name": "Comp 1_00024" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"Comp 1_00025": {
+				"attachment": [
+					{ "time": 0.6667, "name": "Comp 1_00025" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"Comp 1_00026": {
+				"attachment": [
+					{ "time": 0.7, "name": "Comp 1_00026" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"Comp 1_00027": {
+				"attachment": [
+					{ "time": 0.7333, "name": "Comp 1_00027" },
+					{ "time": 0.7667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,74 @@
+{
+"skeleton": { "hash": "7UDy6rhT1pdGQrZxTk4kVjg7qf8", "spine": "3.6.53", "width": 0, "height": 0, "images": "../Images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone10", "parent": "root", "length": 19.34, "rotation": 81.69, "x": 0.54, "y": -6.51 },
+	{ "name": "bone11", "parent": "root", "length": 33.26, "rotation": 112.42, "x": -1.4, "y": -32.74 },
+	{ "name": "bone12", "parent": "root", "length": 22.14, "rotation": 101.2, "x": -33.43, "y": 29.61 }
+],
+"slots": [
+	{ "name": "ngoc trai", "bone": "bone11" },
+	{ "name": "anh sang ngoc trai", "bone": "bone12" },
+	{ "name": "WILD", "bone": "bone10" }
+],
+"skins": {
+	"default": {
+		"WILD": {
+			"WILD": { "x": 4.13, "y": -0.08, "rotation": -81.69, "width": 91, "height": 34 }
+		},
+		"anh sang ngoc trai": {
+			"anh sang ngoc trai": { "x": -0.27, "y": -1.12, "rotation": -101.2, "width": 90, "height": 82 }
+		},
+		"ngoc trai": {
+			"ngoc trai": { "x": 34.49, "y": -18.14, "rotation": -112.42, "width": 123, "height": 107 }
+		}
+	}
+},
+"animations": {
+	"icon 12": {
+		"slots": {
+			"WILD": {
+				"attachment": [
+					{ "time": 0, "name": "WILD" }
+				]
+			},
+			"anh sang ngoc trai": {
+				"color": [
+					{ "time": 1.2, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang ngoc trai" }
+				]
+			},
+			"ngoc trai": {
+				"attachment": [
+					{ "time": 0, "name": "ngoc trai" }
+				]
+			}
+		},
+		"bones": {
+			"bone10": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1, "y": 1.176 },
+					{ "time": 1.8333, "x": 1, "y": 1 }
+				]
+			},
+			"bone12": {
+				"rotate": [
+					{ "time": 0, "angle": -5.56 },
+					{ "time": 0.6667, "angle": -115.8 },
+					{ "time": 1.5, "angle": 73.52 },
+					{ "time": 1.8333, "angle": 15.34 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 1.532, "y": 1.532 },
+					{ "time": 1.8333, "x": 0.343, "y": 0.343 }
+				]
+			}
+		}
+	}
+}
+}

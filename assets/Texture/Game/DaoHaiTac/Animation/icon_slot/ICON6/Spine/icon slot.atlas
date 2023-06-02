@@ -1,0 +1,20 @@
+
+icon slot.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh sang dong xu
+  rotate: false
+  xy: 109, 25
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+dong xu
+  rotate: false
+  xy: 2, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

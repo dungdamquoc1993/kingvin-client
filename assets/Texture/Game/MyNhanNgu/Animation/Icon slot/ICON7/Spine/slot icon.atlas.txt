@@ -1,0 +1,27 @@
+
+slot icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca long den
+  rotate: true
+  xy: 2, 2
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+mat ca long den
+  rotate: false
+  xy: 147, 85
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+mat ca long den 2
+  rotate: false
+  xy: 147, 103
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1

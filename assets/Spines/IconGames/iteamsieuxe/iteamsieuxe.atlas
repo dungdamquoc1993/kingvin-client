@@ -1,0 +1,41 @@
+
+iteamsieuxe.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xe
+  rotate: false
+  xy: 634, 179
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 258, 16
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+sang
+  rotate: false
+  xy: 466, 49
+  size: 166, 172
+  orig: 166, 172
+  offset: 0, 0
+  index: -1
+sieu
+  rotate: false
+  xy: 2, 2
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+xess
+  rotate: false
+  xy: 2, 53
+  size: 254, 168
+  orig: 254, 168
+  offset: 0, 0
+  index: -1

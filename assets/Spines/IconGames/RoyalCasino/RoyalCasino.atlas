@@ -1,0 +1,244 @@
+
+RoyalCasino.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-bb
+  rotate: false
+  xy: 1, 404
+  size: 226, 393
+  orig: 226, 393
+  offset: 0, 0
+  index: -1
+CASINO CARD1
+  rotate: false
+  xy: 719, 571
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+CASINO CARD2
+  rotate: false
+  xy: 831, 198
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1
+CASINO CARD3
+  rotate: false
+  xy: 721, 198
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+CASINO CARD4
+  rotate: false
+  xy: 719, 418
+  size: 138, 151
+  orig: 138, 151
+  offset: 0, 0
+  index: -1
+CASINO CARD5
+  rotate: false
+  xy: 563, 1
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1
+CASINO CARD6
+  rotate: false
+  xy: 238, 217
+  size: 142, 170
+  orig: 142, 170
+  offset: 0, 0
+  index: -1
+CASINO CARD7
+  rotate: false
+  xy: 881, 1
+  size: 162, 187
+  orig: 162, 187
+  offset: 0, 0
+  index: -1
+CASINO CARD8
+  rotate: false
+  xy: 719, 1
+  size: 160, 195
+  orig: 160, 195
+  offset: 0, 0
+  index: -1
+CASINO CARD9
+  rotate: false
+  xy: 561, 213
+  size: 158, 203
+  orig: 158, 203
+  offset: 0, 0
+  index: -1
+CASINO CARD10
+  rotate: false
+  xy: 559, 431
+  size: 158, 207
+  orig: 158, 207
+  offset: 0, 0
+  index: -1
+CASINO CARD11
+  rotate: false
+  xy: 399, 431
+  size: 158, 210
+  orig: 158, 210
+  offset: 0, 0
+  index: -1
+CASINO CARD12
+  rotate: false
+  xy: 402, 1
+  size: 159, 210
+  orig: 159, 210
+  offset: 0, 0
+  index: -1
+CASINO CARD13
+  rotate: false
+  xy: 399, 217
+  size: 160, 212
+  orig: 160, 212
+  offset: 0, 0
+  index: -1
+CASINO CARD14
+  rotate: false
+  xy: 238, 1
+  size: 162, 214
+  orig: 162, 214
+  offset: 0, 0
+  index: -1
+CASINO CARD15
+  rotate: false
+  xy: 1, 799
+  size: 163, 214
+  orig: 163, 214
+  offset: 0, 0
+  index: -1
+CASINO CARD16
+  rotate: false
+  xy: 1550, 706
+  size: 163, 266
+  orig: 163, 266
+  offset: 0, 0
+  index: -1
+CASINO CARD17
+  rotate: false
+  xy: 893, 706
+  size: 165, 277
+  orig: 165, 277
+  offset: 0, 0
+  index: -1
+CASINO CARD18
+  rotate: false
+  xy: 726, 706
+  size: 165, 288
+  orig: 165, 288
+  offset: 0, 0
+  index: -1
+CASINO CARD19
+  rotate: false
+  xy: 396, 706
+  size: 165, 299
+  orig: 165, 299
+  offset: 0, 0
+  index: -1
+CASINO CARD20
+  rotate: false
+  xy: 229, 706
+  size: 165, 304
+  orig: 165, 304
+  offset: 0, 0
+  index: -1
+CASINO CARD21
+  rotate: false
+  xy: 563, 706
+  size: 161, 296
+  orig: 161, 296
+  offset: 0, 0
+  index: -1
+CASINO CARD22
+  rotate: false
+  xy: 1391, 706
+  size: 157, 277
+  orig: 157, 277
+  offset: 0, 0
+  index: -1
+CASINO CARD23
+  rotate: false
+  xy: 1871, 706
+  size: 152, 279
+  orig: 152, 279
+  offset: 0, 0
+  index: -1
+CASINO CARD24
+  rotate: false
+  xy: 1715, 706
+  size: 154, 281
+  orig: 154, 281
+  offset: 0, 0
+  index: -1
+CASINO CARD25
+  rotate: false
+  xy: 1060, 706
+  size: 162, 279
+  orig: 162, 279
+  offset: 0, 0
+  index: -1
+CASINO CARD26
+  rotate: false
+  xy: 1224, 706
+  size: 165, 272
+  orig: 165, 272
+  offset: 0, 0
+  index: -1
+CASINO 007
+  rotate: false
+  xy: 229, 404
+  size: 168, 300
+  orig: 168, 300
+  offset: 0, 0
+  index: -1
+CASINO TEXT
+  rotate: false
+  xy: 893, 985
+  size: 119, 33
+  orig: 119, 33
+  offset: 0, 0
+  index: -1
+CASINO ROYALE
+  rotate: false
+  xy: 563, 163
+  size: 142, 44
+  orig: 142, 44
+  offset: 0, 0
+  index: -1
+CASINO LIGHT1
+  rotate: false
+  xy: 1014, 985
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+CASINO LIGHT2
+  rotate: false
+  xy: 1264, 980
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+CASINO LIGHT3
+  rotate: false
+  xy: 1224, 980
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+slotgame-bolder
+  rotate: false
+  xy: 1, 1
+  size: 235, 401
+  orig: 235, 401
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,50 @@
+{
+"skeleton": {
+	"hash": "UTljOhWp9b1uLUUq56gOBLlnSWY",
+	"spine": "3.6.53",
+	"width": 85,
+	"height": 95,
+	"images": "C:/Users/Toanp/OneDrive/Máy tính/Backup/2020.11.14/88m tiep/spine/spine phuc sinh/ic miss/images/"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root", "length": 40.14, "rotation": 88.49, "x": -2.84, "y": 1.22 },
+	{ "name": "2", "parent": "root", "length": 35.14, "rotation": -137.84, "x": 22.15, "y": 71.62 }
+],
+"slots": [
+	{ "name": "1", "bone": "1", "attachment": "1" },
+	{ "name": "2", "bone": "2", "attachment": "2" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "x": 23.94, "y": -1.66, "rotation": -88.49, "width": 85, "height": 69 }
+		},
+		"2": {
+			"2": { "x": 26.33, "y": 0.47, "rotation": 137.84, "width": 72, "height": 64 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 11.3 },
+					{ "time": 0.1667, "angle": 0 },
+					{ "time": 0.2333, "angle": 11.3 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			},
+			"root": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 0.953, "y": 0.953 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}
